@@ -1,130 +1,22 @@
 {
   "surahs": [
-    {
-      "id": 001,
-      "slug": "al-fatihah",
-      "name_en": "Al-Fātiḥah",
-      "name_ar": "الفاتحة",
-      "file": "surah-001-al-fatihah.json"
-    },
-    {
-      "id": 114,
-      "slug": "an-naas",
-      "name_en": "An-Nās",
-      "name_ar": "الناس",
-      "file": "surah-114-an-naas.json"
-    },
-    {
-      "id": 113,
-      "slug": "al-falaq",
-      "name_en": "Al-Falaq",
-      "name_ar": "الفلق",
-      "file": "surah-113-al-falaq.json"
-    },
-    {
-      "id": 112,
-      "slug": "al-ikhlas",
-      "name_en": "Al-Ikhlāṣ",
-      "name_ar": "الإخلاص",
-      "file": "surah-112-al-ikhlas.json"
-    },
-    {
-      "id": 111,
-      "slug": "al-masad",
-      "name_en": "Al-Masad",
-      "name_ar": "المسد",
-      "file": "surah-111-al-masad.json"
-    },
-    {
-      "id": 110,
-      "slug": "an-nasr",
-      "name_en": "An-Naṣr",
-      "name_ar": "النصر",
-      "file": "surah-110-an-nasr.json"
-    },
-    {
-      "id": 109,
-      "slug": "al-kafirun",
-      "name_en": "Al-Kāfirūn",
-      "name_ar": "الكافرون",
-      "file": "surah-109-al-kafirun.json"
-    },
-    {
-      "id": 108,
-      "slug": "al-kawthar",
-      "name_en": "Al-Kawthar",
-      "name_ar": "الكوثر",
-      "file": "surah-108-al-kawthar.json"
-    },
-    {
-      "id": 107,
-      "slug": "al-maun",
-      "name_en": "Al-Māʿūn",
-      "name_ar": "الماعون",
-      "file": "surah-107-al-maun.json"
-    },
-    {
-      "id": 106,
-      "slug": "quraysh",
-      "name_en": "Quraysh",
-      "name_ar": "قريش",
-      "file": "surah-106-quraysh.json"
-    },
-    {
-      "id": 105,
-      "slug": "al-fil",
-      "name_en": "Al-Fīl",
-      "name_ar": "الفيل",
-      "file": "surah-105-al-fil.json"
-    },
-    {
-      "id": 104,
-      "slug": "al-humazah",
-      "name_en": "Al-Humazah",
-      "name_ar": "الهمزة",
-      "file": "surah-104-al-humazah.json"
-    },
-    {
-      "id": 103,
-      "slug": "al-asr",
-      "name_en": "Al-ʿAsr",
-      "name_ar": "العصر",
-      "file": "surah-103-al-asr.json"
-    },
-    {
-      "id": 102,
-      "slug": "at-takathur",
-      "name_en": "At-Takāthur",
-      "name_ar": "التكاثر",
-      "file": "surah-102-at-takathur.json"
-    },
-    {
-      "id": 101,
-      "slug": "al-qariah",
-      "name_en": "Al-Qāriʿah",
-      "name_ar": "القارعة",
-      "file": "surah-101-al-qariah.json"
-    },
-    {
-      "id": 100,
-      "slug": "al-adiyat",
-      "name_en": "Al-ʿĀdiyāt",
-      "name_ar": "العاديات",
-      "file": "surah-100-al-adiyat.json"
-    },
-    {
-      "id": 099,
-      "slug": "az-zalzalah",
-      "name_en": "Az-Zalzalah",
-      "name_ar": "الزلزلة",
-      "file": "surah-099-az-zalzalah.json"
-    },
-    {
-      "id": 067,
-      "slug": "al-mulk",
-      "name_en": "Al-Mulk",
-      "name_ar": "الملك",
-      "file": "surah-067-al-mulk.json"
-    }
+    { "id": 1,   "slug": "al-fatihah", "name_en": "Al-Fātiḥah", "name_ar": "الفاتحة",   "file": "surah-001-al-fatihah.json" },
+    { "id": 114, "slug": "an-naas",    "name_en": "An-Nās",      "name_ar": "الناس",     "file": "surah-114-an-naas.json" },
+    { "id": 113, "slug": "al-falaq",   "name_en": "Al-Falaq",    "name_ar": "الفلق",     "file": "surah-113-al-falaq.json" },
+    { "id": 112, "slug": "al-ikhlas",  "name_en": "Al-Ikhlāṣ",   "name_ar": "الإخلاص",   "file": "surah-112-al-ikhlas.json" },
+    { "id": 111, "slug": "al-masad",   "name_en": "Al-Masad",    "name_ar": "المسد",     "file": "surah-111-al-lahab.json" },
+    { "id": 110, "slug": "an-nasr",    "name_en": "An-Naṣr",     "name_ar": "النصر",     "file": "surah-110-an-nasr.json" },
+    { "id": 109, "slug": "al-kafirun", "name_en": "Al-Kāfirūn",  "name_ar": "الكافرون",  "file": "surah-109-al-kafirun.json" },
+    { "id": 108, "slug": "al-kawthar", "name_en": "Al-Kawthar",  "name_ar": "الكوثر",     "file": "surah-108-al-kawthar.json" },
+    { "id": 107, "slug": "al-maun",    "name_en": "Al-Māʿūn",    "name_ar": "الماعون",    "file": "surah-107-al-maun.json" },
+    { "id": 106, "slug": "quraysh",    "name_en": "Quraysh",     "name_ar": "قريش",      "file": "surah-106-quraysh.json" },
+    { "id": 105, "slug": "al-fil",     "name_en": "Al-Fīl",      "name_ar": "الفيل",      "file": "surah-105-al-fil.json" },
+    { "id": 104, "slug": "al-humazah", "name_en": "Al-Humazah",  "name_ar": "الهمزة",     "file": "surah-104-al-humazah.json" },
+    { "id": 103, "slug": "al-asr",     "name_en": "Al-ʿAsr",     "name_ar": "العصر",      "file": "surah-103-al-asr.json" },
+    { "id": 102, "slug": "at-takathur","name_en": "At-Takāthur", "name_ar": "التكاثر",    "file": "surah-102-at-takathur.json" },
+    { "id": 101, "slug": "al-qariah",  "name_en": "Al-Qāriʿah",  "name_ar": "القارعة",    "file": "surah-101-al-qariah.json" },
+    { "id": 100, "slug": "al-adiyat",  "name_en": "Al-ʿĀdiyāt",  "name_ar": "العاديات",   "file": "surah-100-al-adiyat.json" },
+    { "id": 99,  "slug": "az-zalzalah","name_en": "Az-Zalzalah", "name_ar": "الزلزلة",    "file": "surah-099-az-zalzalah.json" },
+    { "id": 67,  "slug": "al-mulk",    "name_en": "Al-Mulk",     "name_ar": "الملك",      "file": "surah-067-al-mulk.json" }
   ]
 }
