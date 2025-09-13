@@ -1,0 +1,77 @@
+{
+  "surah": "Al-ʿĀdiyāt",
+  "flashcards": [
+    {
+      "front": {"text": "وَالْعَادِيَاتِ", "language": "ar"},
+      "back": {
+        "text": "Root: ع د و (ʿ-D-W)\nMeaning: By the charging horses\nPronunciation: Wal-ʿĀdiyāt\nTajweed Rules: **Alif-Lām Qamariyyah** and **Madd Tabi'i** on the 'عَا'.\nDerived Words:\n1. عَدْو (ʿAdw): Running, charge\n2. عَدَاء (ʿAdā'): Enmity\n3. عَدُوّ (ʿAdūw): Enemy\nExample Ayah: وَالْعَادِيَاتِ ضَبْحًا",
+        "language": "en-US"
+      },
+      "hint": {"text": "The first word of the Surah, an oath by the galloping horses.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "ضَبْحًا", "language": "ar"},
+      "back": {
+        "text": "Root: ض ب ح (Ḍ-B-Ḥ)\nMeaning: Panting (sound of fast horses)\nPronunciation: Ḍabḥan\nTajweed Rules: Standard pronunciation, **Qalqalah** on the 'ب'.\nDerived Words: This noun is unique to this verse in the Quran.\nExample Ayah: وَالْعَادِيَاتِ ضَبْحًا",
+        "language": "en-US"
+      },
+      "hint": {"text": "The heavy breathing of the running horses.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "الْمُورِيَاتِ", "language": "ar"},
+      "back": {
+        "text": "Root: و ر ي (W-R-Y)\nMeaning: Those that kindle fire, striking sparks\nPronunciation: Al-Mūriyāt\nTajweed Rules: **Alif-Lām Qamariyyah**, **Madd Tabi'i** on 'مُو' and 'يَا'.\nDerived Words:\n1. إِيرَاء (Īrā'): Igniting\n2. وَرَى (Warā): To produce fire by striking\nExample Ayah: فَالْمُورِيَاتِ قَدْحًا",
+        "language": "en-US"
+      },
+      "hint": {"text": "The sparks that fly from the horses' hooves.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "لَكَنُودٌ", "language": "ar"},
+      "back": {
+        "text": "Root: ك ن د (K-N-D)\nMeaning: Extremely ungrateful\nPronunciation: Lakanūd\nTajweed Rules: **Madd Tabi'i** on the 'نُو'.\nDerived Words:\n1. كَنَد (Kanad): Ingratitude\n2. كَنُود (Kanūd): Ungrateful person\nExample Ayah: إِنَّ الْإِنسَانَ لِرَبِّهِ لَكَنُودٌ",
+        "language": "en-US"
+      },
+      "hint": {"text": "Describes mankind's ingratitude to his Lord.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "لَشَهِيدٌ", "language": "ar"},
+      "back": {
+        "text": "Root: ش ه د (Sh-H-D)\nMeaning: Surely a witness\nPronunciation: Lashahīd\nTajweed Rules: **Madd Tabi'i** on the 'هِ'.\nDerived Words:\n1. شَهِيد (Shahīd): Witness, martyr\n2. شَهَادَة (Shahādah): Testimony\nExample Ayah: وَكَفَىٰ بِاللَّهِ شَهِيدًا",
+        "language": "en-US"
+      },
+      "hint": {"text": "Mankind is a witness against himself.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "الْخَيْرِ", "language": "ar"},
+      "back": {
+        "text": "Root: خ ي ر (Kh-Y-R)\nMeaning: Good, wealth\nPronunciation: Al-Khayr\nTajweed Rules: **Alif-Lām Qamariyyah** and **Layyin** on the 'خَيْ'.\nDerived Words:\n1. خَيْر (Khayr): Goodness, better\n2. أَخْيَار (Akhyār): The good ones\nExample Ayah: فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ",
+        "language": "en-US"
+      },
+      "hint": {"text": "Refers to worldly wealth and possessions mankind loves.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "الْقُبُورِ", "language": "ar"},
+      "back": {
+        "text": "Root: ق ب ر (Q-B-R)\nMeaning: The graves\nPronunciation: Al-Qubūr\nTajweed Rules: **Alif-Lām Qamariyyah** and **Madd Tabi'i** on the 'بُو'.\nDerived Words:\n1. قَبْر (Qabr): A grave\n2. مَقْبُور (Maqbūr): Buried one\nExample Ayah: أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ",
+        "language": "en-US"
+      },
+      "hint": {"text": "Where the dead are buried before resurrection.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "الصُّدُورِ", "language": "ar"},
+      "back": {
+        "text": "Root: ص د ر (Ṣ-D-R)\nMeaning: The chests, hearts\nPronunciation: Aṣ-Ṣudūr\nTajweed Rules: **Alif-Lām Shamsiyyah**, **Madd Tabi'i** on the 'دُو'.\nDerived Words:\n1. صَدْر (Ṣadr): Chest\n2. تَصْدِير (Taṣdīr): Bringing forth\nExample Ayah: وَحُصِّلَ مَا فِي الصُّدُورِ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The hidden thoughts that will be exposed.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "لَخَبِيرٌ", "language": "ar"},
+      "back": {
+        "text": "Root: خ ب ر (Kh-B-R)\nMeaning: Fully aware\nPronunciation: Lakhabīr\nTajweed Rules: **Madd Tabi'i** on the 'بِي'.\nDerived Words:\n1. خَبِير (Khabīr): All-aware\n2. خَبَر (Khabar): News, information\nExample Ayah: وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+        "language": "en-US"
+      },
+      "hint": {"text": "A divine attribute of Allah’s complete knowledge.", "language": "en-US"}
+    }
+  ]
+}
