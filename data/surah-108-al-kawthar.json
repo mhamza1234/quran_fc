@@ -1,0 +1,61 @@
+{
+  "surah": "Al-Kawthar",
+  "flashcards": [
+    {
+      "front": { "text": "إِنَّا", "language": "ar" },
+      "back": {
+        "text": "Root: — (particle & pronoun)\nMeaning: Indeed, We\nPronunciation: Innā\nTajweed Rules: Ghunna on the doubled نّ and Madd Ṭabīʿī on نَا (2 counts).\nDerived Words: As a particle/pronoun it has no derived forms.\nExample Ayah: إِنَّا أَرْسَلْنَاكَ شَاهِدًا وَمُبَشِّرًا وَنَذِيرًا",
+        "language": "en-US"
+      },
+      "hint": { "text": "The opening word of the Sūrah, a powerful declaration.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "أَعْطَيْنَاكَ", "language": "ar" },
+      "back": {
+        "text": "Root: ع ط و (`-Ṭ-W)\nMeaning: We have given you\nPronunciation: Aʿṭaynāka\nTajweed Rules: Tafkhīm (heaviness) on ط; Madd Ṭabīʿī on نَا (2 counts).\nDerived Words:\n1. عَطَاء (`Aṭāʾ): A gift\n2. إِعْطَاء (Iʿṭāʾ): Giving\n3. عَاطِي (`Āṭī): One who gives\nExample Ayah: أَعْطَىٰ كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَىٰ",
+        "language": "en-US"
+      },
+      "hint": { "text": "A reference to a great gift from Allah.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "الْكَوْثَرَ", "language": "ar" },
+      "back": {
+        "text": "Root: ك ث ر (K-TH-R)\nMeaning: The abundance\nPronunciation: Al-Kawthar\nTajweed Rules: Alif-Lām Qamariyyah (clear lām).\nDerived Words:\n1. كَثْرَة (Kathrah): Multitude\n2. أَكْثَر (Akthar): More\n3. تَكْثِير (Takthīr): Making abundant\nExample Ayah: This noun is unique to this Sūrah in the Qurʾān.",
+        "language": "en-US"
+      },
+      "hint": { "text": "The name of the river in Paradise.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "فَصَلِّ", "language": "ar" },
+      "back": {
+        "text": "Root: ص ل و (Ṣ-L-W)\nMeaning: So pray\nPronunciation: Faṣalli\nTajweed Rules: Istiʿlā on Ṣād and Shaddah on لّ.\nDerived Words:\n1. صَلَاة (Ṣalāh): Prayer\n2. مُصَلِّي (Muṣallī): One who prays\nExample Ayah: وَأَقِيمُوا الصَّلَاةَ",
+        "language": "en-US"
+      },
+      "hint": { "text": "A command to establish ṣalāh.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "وَانْحَرْ", "language": "ar" },
+      "back": {
+        "text": "Root: ن ح ر (N-Ḥ-R)\nMeaning: And sacrifice\nPronunciation: Wanḥar\nTajweed Rules: Iẓhār of the nūn sākin before ḥāʾ.\nDerived Words:\n1. نَحْر (Naḥr): Sacrifice/slaughter\n2. مَنْحَر (Manḥar): Place of sacrifice\nExample Ayah: This verb form is unique to this Sūrah in the Qurʾān.",
+        "language": "en-US"
+      },
+      "hint": { "text": "A command to perform a ritual sacrifice.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "شَانِئَكَ", "language": "ar" },
+      "back": {
+        "text": "Root: ش ن أ (Sh-N-ʾ)\nMeaning: Your enemy, your hater\nPronunciation: Shāniʾaka\nTajweed Rules: Madd Ṭabīʿī on شَا.\nDerived Words:\n1. شَنَآن (Shanʾān): Hatred\n2. شَنَأَ (Shanaʾa): He hated\nExample Ayah: وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ",
+        "language": "en-US"
+      },
+      "hint": { "text": "Refers to the one who hated the Prophet ﷺ.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "الْأَبْتَرُ", "language": "ar" },
+      "back": {
+        "text": "Root: ب ت ر (B-T-R)\nMeaning: The one cut off, without posterity\nPronunciation: Al-Abtar\nTajweed Rules: Alif-Lām Qamariyyah (clear lām); Qalqalah on ب when stopping.\nDerived Words:\n1. بَتْر (Batr): Cutting off\nExample Ayah: This noun is unique to this Sūrah in the Qurʾān.",
+        "language": "en-US"
+      },
+      "hint": { "text": "A description of the Prophet’s enemy as cut off from legacy.", "language": "en-US" }
+    }
+  ]
+}
