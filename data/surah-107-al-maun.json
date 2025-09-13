@@ -1,0 +1,93 @@
+{
+  "surah": "Al-Māʿūn",
+  "flashcards": [
+    {
+      "front": { "text": "أَرَأَيْتَ", "language": "ar" },
+      "back": {
+        "text": "Root: ر أ ي (R-ʾ-Y)\nMeaning: Have you seen?\nPronunciation: Araʾayta\nTajweed Rules: Madd Ṭabīʿī on رَأَ (2 counts).\nDerived Words:\n1. رُؤْيَة (Ruʾyah): Vision\n2. رَأَى (Raʾā): He saw\n3. رَاءٍ (Rāʾin): A seer\nExample Ayah: أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+        "language": "en-US"
+      },
+      "hint": { "text": "The opening word, a rhetorical question.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "يُكَذِّبُ", "language": "ar" },
+      "back": {
+        "text": "Root: ك ذ ب (K-Dh-B)\nMeaning: He denies / he tells a lie\nPronunciation: Yukadhdhibu\nTajweed Rules: Shaddah on ذِّ.\nDerived Words:\n1. كَذِب (Kadhib): A lie\n2. كَذَّاب (Kadhdhāb): A liar\n3. تَكْذِيب (Takdhīb): Denial\nExample Ayah: فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ",
+        "language": "en-US"
+      },
+      "hint": { "text": "Refers to the person who denies the religion.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "يَدُعُّ", "language": "ar" },
+      "back": {
+        "text": "Root: د ع ع (D-ʿ-ʿ)\nMeaning: He drives away, repels\nPronunciation: Yaduʿʿu\nTajweed Rules: Shaddah on عُّ.\nDerived Words:\n1. دَعّ (Daʿʿ): Driving away\nExample Ayah: يَوْمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا",
+        "language": "en-US"
+      },
+      "hint": { "text": "Describes how a specific type of person treats the vulnerable.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "الْيَتِيمَ", "language": "ar" },
+      "back": {
+        "text": "Root: ي ت م (Y-T-M)\nMeaning: The orphan\nPronunciation: Al-Yatīm\nTajweed Rules: Alif-Lām Qamariyyah; Madd Ṭabīʿī on تِي.\nDerived Words:\n1. يَتِيمَة (Yatīmah): A female orphan\n2. أَيْتَام (Aytām): Orphans\nExample Ayah: فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ",
+        "language": "en-US"
+      },
+      "hint": { "text": "A vulnerable person without a parent.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "يَحُضُّ", "language": "ar" },
+      "back": {
+        "text": "Root: ح ض ض (Ḥ-Ḍ-Ḍ)\nMeaning: He urges, encourages\nPronunciation: Yaḥuḍḍu\nTajweed Rules: Shaddah on ضُّ and Tafkhīm on ض.\nDerived Words:\n1. حَضّ (Ḥaḍḍ): An urging\n2. تَحَاضّ (Taḥāḍḍ): Urging one another\nExample Ayah: Unique to this Sūrah in the Qurʾān.",
+        "language": "en-US"
+      },
+      "hint": { "text": "A reference to encouraging the feeding of the poor.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "طَعَامِ", "language": "ar" },
+      "back": {
+        "text": "Root: ط ع م (Ṭ-ʿ-M)\nMeaning: The food\nPronunciation: Ṭaʿāmi\nTajweed Rules: Tafkhīm on Ṭ; Madd Ṭabīʿī on عَام.\nDerived Words:\n1. أَطْعَمَ (Aṭʿama): He fed\n2. إِطْعَام (Iṭʿām): Feeding\n3. مَطْعَم (Maṭʿam): A place to eat\nExample Ayah: الَّذِي أَطْعَمَهُم مِّن جُوعٍ",
+        "language": "en-US"
+      },
+      "hint": { "text": "What is to be given to the needy.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "الْمِسْكِينِ", "language": "ar" },
+      "back": {
+        "text": "Root: س ك ن (S-K-N)\nMeaning: The poor person\nPronunciation: Al-Miskīn\nTajweed Rules: Alif-Lām Qamariyyah; Madd Ṭabīʿī on كِي.\nDerived Words:\n1. سَكَن (Sakan): A dwelling\n2. سَكِينَة (Sakīnah): Tranquility\nExample Ayah: وَلَا تَحُضُّونَ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+        "language": "en-US"
+      },
+      "hint": { "text": "A person in dire need.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "فَوَيْلٌ", "language": "ar" },
+      "back": {
+        "text": "Root: و ي ل (W-Y-L)\nMeaning: So woe, destruction\nPronunciation: Fawaylun\nTajweed Rules: Layyin on وَ; tanwīn pronounced clearly (iẓhār).\nDerived Words:\n1. وَيْل (Wayl): Woe\nExample Ayah: فَوَيْلٌ لِّلَّذِينَ يَكْتُبُونَ الْكِتَابَ بِأَيْدِيهِمْ",
+        "language": "en-US"
+      },
+      "hint": { "text": "A declaration of doom.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "لِّلْمُصَلِّينَ", "language": "ar" },
+      "back": {
+        "text": "Root: ص ل ي (Ṣ-L-Y)\nMeaning: To the praying ones\nPronunciation: Lil-Muṣallīn\nTajweed Rules: Istiʿlā on Ṣ; Shaddah on لّ; Madd Ṭabīʿī on لِّي and Madd ʿĀriḍ li-s-sukūn when stopping.\nDerived Words:\n1. صَلَاة (Ṣalāh): Prayer\n2. صَلَّى (Ṣallā): He prayed\nExample Ayah: الَّذِينَ يُقِيمُونَ الصَّلَاةَ",
+        "language": "en-US"
+      },
+      "hint": { "text": "A reference to those who perform ṣalāh.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "يُرَاءُونَ", "language": "ar" },
+      "back": {
+        "text": "Root: ر أ ي (R-ʾ-Y)\nMeaning: They show off\nPronunciation: Yurāʾūna\nTajweed Rules: Madd Ṭabīʿī on رَا and on ؤُو.\nDerived Words:\n1. رِيَاء (Riyāʾ): Showing off\n2. رَاءَى (Rāʾā): He showed off\nExample Ayah: Unique to this Sūrah in the Qurʾān.",
+        "language": "en-US"
+      },
+      "hint": { "text": "A description of a person's bad intention.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "الْمَاعُونَ", "language": "ar" },
+      "back": {
+        "text": "Root: م ع ن (M-ʿ-N)\nMeaning: Small kindnesses, basic necessities\nPronunciation: Al-Māʿūn\nTajweed Rules: Alif-Lām Qamariyyah; Madd Ṭabīʿī on مَا.\nDerived Words:\n1. مَعُونَة (Maʿūnah): Help\nExample Ayah: Unique to this Sūrah in the Qurʾān.",
+        "language": "en-US"
+      },
+      "hint": { "text": "The title of the Sūrah, referring to everyday acts of kindness.", "language": "en-US" }
+    }
+  ]
+}
