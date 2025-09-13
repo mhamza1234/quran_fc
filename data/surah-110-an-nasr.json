@@ -1,0 +1,85 @@
+{
+  "surah": "An-Naṣr",
+  "flashcards": [
+    {
+      "front": { "text": "إِذَا", "language": "ar" },
+      "back": {
+        "text": "Root: — (particle)\nMeaning: When\nPronunciation: Idhā\nTajweed Rules: Madd Ṭabīʿī on the long alif of ذَا (2 counts).\nDerived Words: As a particle it has no derived forms.\nExample Ayah: وَإِذَا قِيلَ لَهُمْ لَا تُفْسِدُوا",
+        "language": "en-US"
+      },
+      "hint": { "text": "The opening word of the Sūrah, introducing a future event.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "جَاءَ", "language": "ar" },
+      "back": {
+        "text": "Root: ج ي أ (J-Y-ʾ)\nMeaning: Came / There comes\nPronunciation: Jāʾa\nTajweed Rules: Madd Wājib Muttaṣil on the long alif (4–5 counts).\nDerived Words:\n1. مَجِيء (Majīʾ): Coming\n2. جَائِي (Jāʾī): One who comes\nExample Ayah: وَجَاءَتْ سَيَّارَةٌ",
+        "language": "en-US"
+      },
+      "hint": { "text": "Refers to the arrival of Allah’s help.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "نَصْرُ", "language": "ar" },
+      "back": {
+        "text": "Root: ن ص ر (N-Ṣ-R)\nMeaning: Help, victory\nPronunciation: Naṣru\nTajweed Rules: Istiʿlā (heavy sound) on Ṣād.\nDerived Words:\n1. نَصَرَ (Naṣara): He helped\n2. مَنْصُور (Manṣūr): Victorious\n3. نَصِير (Naṣīr): A helper\n4. اِنْتِصَار (Intiṣār): Victory\nExample Ayah: وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ",
+        "language": "en-US"
+      },
+      "hint": { "text": "Refers to the help and victory of Allah.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "الْفَتْحُ", "language": "ar" },
+      "back": {
+        "text": "Root: ف ت ح (F-T-Ḥ)\nMeaning: The victory, opening\nPronunciation: Al-Fatḥu\nTajweed Rules: Alif-Lām Qamariyyah (clear lām).\nDerived Words:\n1. فَتَحَ (Fataḥa): He opened\n2. مِفْتَاح (Miftāḥ): Key\n3. فَتَّاح (Fattāḥ): The Opener\n4. فُتُوح (Futūḥ): Openings\nExample Ayah: فَافْتَحْ بَيْنِي وَبَيْنَهُمْ فَتْحًا",
+        "language": "en-US"
+      },
+      "hint": { "text": "Alludes to the conquest of Makkah.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "يَدْخُلُونَ", "language": "ar" },
+      "back": {
+        "text": "Root: د خ ل (D-Kh-L)\nMeaning: Entering\nPronunciation: Yadkhulūna\nTajweed Rules: Qalqalah on د; Madd Ṭabīʿī on لُو.\nDerived Words:\n1. دُخُول (Dukhūl): Entry\n2. مَدْخَل (Madkhal): Entrance\n3. أَدْخَلَ (Adkhala): He caused to enter\n4. دَاخِل (Dākhil): Internal\nExample Ayah: فَادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا",
+        "language": "en-US"
+      },
+      "hint": { "text": "Describes masses entering Islam.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "دِينِ", "language": "ar" },
+      "back": {
+        "text": "Root: د ي ن (D-Y-N)\nMeaning: Religion, way of life\nPronunciation: Dīni\nTajweed Rules: Madd Ṭabīʿī on دِي.\nDerived Words:\n1. دَيْن (Dayn): Debt\n2. دَانَ (Dāna): He obeyed\n3. دَيْنُونَة (Daynūnah): Judgment, indebtedness\nExample Ayah: لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+        "language": "en-US"
+      },
+      "hint": { "text": "The path or system of belief.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "أَفْوَاجًا", "language": "ar" },
+      "back": {
+        "text": "Root: ف و ج (F-W-J)\nMeaning: In crowds, groups\nPronunciation: Afwājan\nTajweed Rules: Madd Ṭabīʿī on وَا; tanwīn followed by hamzah is pronounced with ikhfāʾ.\nDerived Words:\n1. فَوْج (Fawj): A group\n2. اِسْتَفْوَجَ (Istafwaja): To form a group\nExample Ayah: Unique to this Sūrah in the Qurʾān.",
+        "language": "en-US"
+      },
+      "hint": { "text": "People entering Islam in large groups.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "فَسَبِّحْ", "language": "ar" },
+      "back": {
+        "text": "Root: س ب ح (S-B-Ḥ)\nMeaning: So glorify\nPronunciation: Fasabbiḥ\nTajweed Rules: Shaddah on بّ and clear ḥāʾ.\nDerived Words:\n1. سُبْحَان (Subḥān): Glory\n2. تَسْبِيح (Tasbīḥ): Glorification\n3. سَبَحَ (Sabaḥa): He swam/floated\nExample Ayah: وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ",
+        "language": "en-US"
+      },
+      "hint": { "text": "A command to glorify Allah.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "بِحَمْدِ", "language": "ar" },
+      "back": {
+        "text": "Root: ح م د (Ḥ-M-D)\nMeaning: With the praise\nPronunciation: Biḥamdi\nTajweed Rules: Standard pronunciation.\nDerived Words:\n1. حَمْد (Ḥamd): Praise\n2. أَحْمَد (Aḥmad): More praiseworthy\n3. مَحْمُود (Maḥmūd): Praiseworthy\n4. حَمِيد (Ḥamīd): Praiseworthy\nExample Ayah: الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+        "language": "en-US"
+      },
+      "hint": { "text": "Praising Allah while glorifying Him.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "تَوَّابًا", "language": "ar" },
+      "back": {
+        "text": "Root: ت و ب (T-W-B)\nMeaning: Ever-Accepting of repentance\nPronunciation: Tawwāban\nTajweed Rules: Shaddah on وّ; Madd Ṭabīʿī on بَا.\nDerived Words:\n1. تَوْبَة (Tawbah): Repentance\n2. تَابَ (Tāba): He repented\n3. مُتَاب (Mutāb): One who repents\nExample Ayah: إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ",
+        "language": "en-US"
+      },
+      "hint": { "text": "One of Allah’s beautiful attributes.", "language": "en-US" }
+    }
+  ]
+}
