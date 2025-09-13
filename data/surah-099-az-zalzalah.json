@@ -1,0 +1,69 @@
+{
+  "surah": "Az-Zalzalah",
+  "flashcards": [
+    {
+      "front": {"text": "زُلْزِلَتِ", "language": "ar"},
+      "back": {
+        "text": "Root: ز ل ز ل (Z-L-Z-L)\nMeaning: Is shaken\nPronunciation: Zulzilat\nTajweed Rules: Standard pronunciation.\nDerived Words:\n1. زَلْزَال (Zilzāl): An earthquake\n2. زَلْزَلَة (Zalzalah): Tremor, violent shaking\nExample Ayah: إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا",
+        "language": "en-US"
+      },
+      "hint": {"text": "The first word of the Surah's event.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "الْأَرْضُ", "language": "ar"},
+      "back": {
+        "text": "Root: أ ر ض (A-R-Ḍ)\nMeaning: The earth\nPronunciation: Al-Arḍu\nTajweed Rules: **Alif-Lām Qamariyyah** and **Isti'lā** on the 'ض'.\nDerived Words:\n1. أَرْض (Arḍ): Earth, land\n2. أَرَاضٍ (Arāḍī): Lands\nExample Ayah: وَهُوَ الَّذِي مَدَّ الْأَرْضَ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The planet that will shake violently.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "زِلْزَالَهَا", "language": "ar"},
+      "back": {
+        "text": "Root: ز ل ز ل (Z-L-Z-L)\nMeaning: Its earthquake\nPronunciation: Zilzālahā\nTajweed Rules: **Madd Tabi'i** on the 'زَا'.\nDerived Words:\n1. زَلْزَلَة (Zalzalah): A mighty quake\nExample Ayah: إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا",
+        "language": "en-US"
+      },
+      "hint": {"text": "The specific final earthquake of the earth.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "أَثْقَالَهَا", "language": "ar"},
+      "back": {
+        "text": "Root: ث ق ل (Th-Q-L)\nMeaning: Its burdens\nPronunciation: Athqālahā\nTajweed Rules: **Madd Tabi'i** on the 'قَا'.\nDerived Words:\n1. ثَقِيل (Thaqīl): Heavy\n2. ثِقْل (Thiql): Weight, burden\nExample Ayah: وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا",
+        "language": "en-US"
+      },
+      "hint": {"text": "What the earth will discharge (buried people or treasures).", "language": "en-US"}
+    },
+    {
+      "front": {"text": "أَخْبَارَهَا", "language": "ar"},
+      "back": {
+        "text": "Root: خ ب ر (Kh-B-R)\nMeaning: Its news\nPronunciation: Akhbārahā\nTajweed Rules: **Madd Tabi'i** on the 'بَا'.\nDerived Words:\n1. خَبَر (Khabar): News, information\n2. مُخْبِر (Mukbir): Informer\nExample Ayah: يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+        "language": "en-US"
+      },
+      "hint": {"text": "The earth will testify about human deeds.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "أَشْتَاتًا", "language": "ar"},
+      "back": {
+        "text": "Root: ش ت ت (Sh-T-T)\nMeaning: In scattered groups\nPronunciation: Ashtātan\nTajweed Rules: **Madd Tabi'i** on the 'تَا'.\nDerived Words:\n1. شَتَّ (Shatta): To scatter\n2. شَتَات (Shatāt): Dispersion\nExample Ayah: يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا",
+        "language": "en-US"
+      },
+      "hint": {"text": "People will come forth separated for judgment.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "مِثْقَالَ", "language": "ar"},
+      "back": {
+        "text": "Root: ث ق ل (Th-Q-L)\nMeaning: Weight of (even a tiny amount)\nPronunciation: Mithqāla\nTajweed Rules: **Ikhfā'** of the 'ث' when followed by 'ق'.\nDerived Words:\n1. ثِقْل (Thiql): Weight\n2. ثَقِيل (Thaqīl): Heavy\nExample Ayah: فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ",
+        "language": "en-US"
+      },
+      "hint": {"text": "Represents the smallest measurable deed.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "ذَرَّةٍ", "language": "ar"},
+      "back": {
+        "text": "Root: ذ ر ر (Dh-R-R)\nMeaning: An atom, tiny particle\nPronunciation: Dharrah\nTajweed Rules: Clear 'ذ' and rolled 'ر'.\nDerived Words:\n1. ذَرّ (Dharr): Minute particles\n2. ذُرِّيَّة (Dhurrīyah): Offspring (from the idea of tiny seeds)\nExample Ayah: فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The smallest unit of measure for deeds.", "language": "en-US"}
+    }
+  ]
+}
