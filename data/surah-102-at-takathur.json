@@ -1,0 +1,69 @@
+{
+  "surah": "At-Takāthur",
+  "flashcards": [
+    {
+      "front": {"text": "أَلْهَاكُمُ", "language": "ar"},
+      "back": {
+        "text": "Root: ل ه و (L-H-W)\nMeaning: Diverted you, distracted you\nPronunciation: Alhākum\nTajweed Rules: **Madd Tabi'i** on the 'هَا'.\nDerived Words:\n1. لَهْو (Lahw): Diversion\n2. لَاهِيَة (Lāhiyah): A diversion\nExample Ayah: الَّذِينَ اتَّخَذُوا دِينَهُمْ لَهْوًا وَلَعِبًا",
+        "language": "en-US"
+      },
+      "hint": {"text": "The verb describing the distraction.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "التَّكَاثُرُ", "language": "ar"},
+      "back": {
+        "text": "Root: ك ث ر (K-TH-R)\nMeaning: The competition in worldly increase, mutual boasting\nPronunciation: At-Takāthur\nTajweed Rules: **Alif-Lām Shamsiyyah** and **Madd Tabi'i** on the 'كَا'.\nDerived Words:\n1. كَثِير (Kathīr): Many\n2. كَثْرَة (Kathrah): Abundance\nExample Ayah: This word is unique to this Surah in the Quran.",
+        "language": "en-US"
+      },
+      "hint": {"text": "The title of the Surah.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "الْمَقَابِرَ", "language": "ar"},
+      "back": {
+        "text": "Root: ق ب ر (Q-B-R)\nMeaning: The graves\nPronunciation: Al-Maqābir\nTajweed Rules: **Alif-Lām Qamariyyah** and **Madd Tabi'i** on the 'قَا'.\nDerived Words:\n1. قَبْر (Qabr): A grave\n2. قَبَرَ (Qabara): He buried\nExample Ayah: ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The destination that ends the distraction.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "سَوْفَ", "language": "ar"},
+      "back": {
+        "text": "Root: N/A (particle)\nMeaning: Soon, later\nPronunciation: Sawfa\nTajweed Rules: **Layyin** on the 'سَوْ'.\nDerived Words: As a particle, it has no derived words.\nExample Ayah: وَسَوْفَ يُؤْتِ اللَّهُ الْمُؤْمِنِينَ أَجْرًا عَظِيمًا",
+        "language": "en-US"
+      },
+      "hint": {"text": "A word indicating something that will happen in the future.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "تَعْلَمُونَ", "language": "ar"},
+      "back": {
+        "text": "Root: ع ل م (ʿ-L-M)\nMeaning: You will know\nPronunciation: Taʿlamūn\nTajweed Rules: **Madd Tabi'i** on the 'مُو'.\nDerived Words:\n1. عِلْم (ʿIlm): Knowledge\n2. عَالِم (ʿĀlim): A scholar\nExample Ayah: وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The result of the warning.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "الْيَقِينِ", "language": "ar"},
+      "back": {
+        "text": "Root: ي ق ن (Y-Q-N)\nMeaning: Certainty\nPronunciation: Al-Yaqīn\nTajweed Rules: **Alif-Lām Qamariyyah** and **Madd Tabi'i** on the 'قِي'.\nDerived Words:\n1. يَقِنَ (Yaqina): He was certain\nExample Ayah: وَاعْبُدْ رَبَّكَ حَتَّىٰ يَأْتِيَكَ الْيَقِينُ",
+        "language": "en-US"
+      },
+      "hint": {"text": "A state of sure knowledge.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "الْجَحِيمَ", "language": "ar"},
+      "back": {
+        "text": "Root: ج ح م (J-Ḥ-M)\nMeaning: The Hellfire\nPronunciation: Al-Jaḥīm\nTajweed Rules: **Alif-Lām Qamariyyah** and **Madd Tabi'i** on the 'حِي'.\nDerived Words: This noun is primarily used to describe Hellfire.\nExample Ayah: فَإِنَّ الْجَحِيمَ هِيَ الْمَأْوَىٰ",
+        "language": "en-US"
+      },
+      "hint": {"text": "A specific name for Hell.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "النَّعِيمِ", "language": "ar"},
+      "back": {
+        "text": "Root: ن ع م (N-ʿ-M)\nMeaning: The comfort, the blessings\nPronunciation: An-Naʿīm\nTajweed Rules: **Alif-Lām Shamsiyyah** and **Madd Tabi'i** on the 'عِي'.\nDerived Words:\n1. نِعْمَة (Niʿmah): A blessing\n2. أَنْعَام (Anʿām): Cattle\nExample Ayah: فِي جَنَّاتِ النَّعِيمِ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The subject of the final questioning on the Day of Judgment.", "language": "en-US"}
+    }
+  ]
+}
