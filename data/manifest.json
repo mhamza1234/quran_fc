@@ -118,6 +118,13 @@
       "name_en": "Az-Zalzalah",
       "name_ar": "الزلزلة",
       "file": "surah-099-az-zalzalah.json"
+    },
+    {
+      "id": 067,
+      "slug": "al-mulk",
+      "name_en": "Al-Mulk",
+      "name_ar": "الملك",
+      "file": "surah-067-al-mulk.json"
     }
   ]
 }
