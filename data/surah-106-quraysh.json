@@ -1,0 +1,101 @@
+{
+  "surah": "Quraysh",
+  "flashcards": [
+    {
+      "front": { "text": "لِإِيلَافِ", "language": "ar" },
+      "back": {
+        "text": "Root: أ ل ف (A-L-F)\nMeaning: For the accustomed security, for the unity\nPronunciation: Liʾīlāfi\nTajweed Rules: Madd Ṭabīʿī on لَا (2 counts).\nDerived Words:\n1. أَلِف (Alif): To be familiar/accustomed\n2. تَأْلِيف (Taʾlīf): Reconciliation, bringing together\n3. أُلْفَة (Ulfah): Familiarity, affection\nExample Ayah: فَأَلَّفَ بَيْنَ قُلُوبِكُمْ",
+        "language": "en-US"
+      },
+      "hint": { "text": "A reason for the tribe's security.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "قُرَيْشٍ", "language": "ar" },
+      "back": {
+        "text": "Root: ق ر ش (Q-R-Sh)\nMeaning: Quraysh (the tribe)\nPronunciation: Quraysh\nTajweed Rules: Layyin on رَيْ.\nDerived Words: Proper noun unique to this Surah.\nExample Ayah: This is the name of the Surah.",
+        "language": "en-US"
+      },
+      "hint": { "text": "The tribe of the Prophet ﷺ.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "رِحْلَةَ", "language": "ar" },
+      "back": {
+        "text": "Root: ر ح ل (R-Ḥ-L)\nMeaning: The journey\nPronunciation: Riḥlata\nTajweed Rules: Standard pronunciation.\nDerived Words:\n1. رَحَلَ (Raḥala): He journeyed\n2. رَحِيل (Raḥīl): Departure\n3. رَاحِلَة (Rāḥilah): A mount for a journey\nExample Ayah: Rare root in Qurʾān, primarily in this Surah.",
+        "language": "en-US"
+      },
+      "hint": { "text": "Refers to the two trade journeys.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "الشِّتَاءِ", "language": "ar" },
+      "back": {
+        "text": "Root: ش ت و (Sh-T-W)\nMeaning: The winter\nPronunciation: Ash-Shitāʾ\nTajweed Rules: Alif-Lām Shamsiyyah (lām silent); Madd Wājib Muttaṣil on شِتَاء (4–5 counts).\nDerived Words: Unique to this Surah.\nExample Ayah: الشِّتَاءِ وَالصَّيْفِ",
+        "language": "en-US"
+      },
+      "hint": { "text": "One of the two seasons of travel.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "الصَّيْفِ", "language": "ar" },
+      "back": {
+        "text": "Root: ص ي ف (Ṣ-Y-F)\nMeaning: The summer\nPronunciation: Waṣ-Ṣayf\nTajweed Rules: Alif-Lām Shamsiyyah; Istiʿlā on Ṣ; Layyin on صَيْ.\nDerived Words:\n1. صَافَ (Ṣāfa): To pass the summer\nExample Ayah: الشِّتَاءِ وَالصَّيْفِ",
+        "language": "en-US"
+      },
+      "hint": { "text": "The other season of travel.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "فَلْيَعْبُدُوا", "language": "ar" },
+      "back": {
+        "text": "Root: ع ب د (ʿ-B-D)\nMeaning: So let them worship\nPronunciation: Fal-yaʿbudū\nTajweed Rules: Madd Ṭabīʿī on دُو (2 counts).\nDerived Words:\n1. عِبَادَة (ʿIbādah): Worship\n2. عَبْد (ʿAbd): Servant\n3. عَابِد (ʿĀbid): Worshipper\nExample Ayah: إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+        "language": "en-US"
+      },
+      "hint": { "text": "A command to worship.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "رَبَّ", "language": "ar" },
+      "back": {
+        "text": "Root: ر ب ب (R-B-B)\nMeaning: The Lord\nPronunciation: Rabba\nTajweed Rules: Shaddah on بّ.\nDerived Words:\n1. رَبّ (Rabb): Lord\n2. تَرْبِيَة (Tarbiyah): Upbringing\n3. رِبَابَة (Ribābah): Lordship\nExample Ayah: الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+        "language": "en-US"
+      },
+      "hint": { "text": "The one who is to be worshipped.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "الْبَيْتِ", "language": "ar" },
+      "back": {
+        "text": "Root: ب ي ت (B-Y-T)\nMeaning: The House (Kaʿbah)\nPronunciation: Al-Bayt\nTajweed Rules: Alif-Lām Qamariyyah; Layyin on بَيْ.\nDerived Words:\n1. بَيْت (Bayt): House\n2. بُيُوت (Buyūt): Houses\nExample Ayah: فِي بُيُوتٍ أَذِنَ اللَّهُ أَن تُرْفَعَ",
+        "language": "en-US"
+      },
+      "hint": { "text": "The holiest place for Muslims.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "أَطْعَمَهُم", "language": "ar" },
+      "back": {
+        "text": "Root: ط ع م (Ṭ-ʿ-M)\nMeaning: Fed them\nPronunciation: Aṭʿamahum\nTajweed Rules: Tafkhīm on Ṭ.\nDerived Words:\n1. طَعَام (Ṭaʿām): Food\n2. إِطْعَام (Iṭʿām): Feeding\nExample Ayah: الَّذِي أَطْعَمَهُم مِّن جُوعٍ",
+        "language": "en-US"
+      },
+      "hint": { "text": "A blessing from Allah.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "جُوعٍ", "language": "ar" },
+      "back": {
+        "text": "Root: ج و ع (J-W-ʿ)\nMeaning: Hunger\nPronunciation: Jūʿ\nTajweed Rules: Layyin on جُو.\nDerived Words:\n1. جَاعَ (Jāʿa): He was hungry\n2. مَجَاعَة (Majāʿah): Famine\nExample Ayah: وَلَنَبْلُوَنَّكُم بِشَيْءٍ مِّنَ الْخَوْفِ وَالْجُوعِ",
+        "language": "en-US"
+      },
+      "hint": { "text": "The opposite of being fed.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "وَآمَنَهُم", "language": "ar" },
+      "back": {
+        "text": "Root: أ م ن (A-M-N)\nMeaning: And made them safe\nPronunciation: Waʾāmanahum\nTajweed Rules: Madd Ṭabīʿī on آ (2 counts).\nDerived Words:\n1. أَمْن (Amn): Safety\n2. إِيمَان (Īmān): Faith\n3. مُؤْمِن (Muʾmin): Believer\nExample Ayah: وَآمَنَهُم مِّنْ خَوْفٍ",
+        "language": "en-US"
+      },
+      "hint": { "text": "Another blessing from Allah.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "خَوْفٍ", "language": "ar" },
+      "back": {
+        "text": "Root: خ و ف (Kh-W-F)\nMeaning: Fear\nPronunciation: Khawf\nTajweed Rules: Layyin on خَوْ.\nDerived Words:\n1. خَافَ (Khāfa): He feared\n2. مَخَافَة (Makhāfah): Fear\n3. تَخْوِيف (Takhwīf): Intimidation\nExample Ayah: وَلَنَبْلُوَنَّكُم بِشَيْءٍ مِّنَ الْخَوْفِ وَالْجُوعِ",
+        "language": "en-US"
+      },
+      "hint": { "text": "The opposite of safety.", "language": "en-US" }
+    }
+  ]
+}
