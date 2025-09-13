@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+    <title>Quran Word Flashcards</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&family=Amiri:wght@400;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./assets/style.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">Quran Flashcards</div>
+      <nav class="controls">
+        <label for="surahSelect" class="sr-only">Select Surah</label>
+        <select id="surahSelect" aria-label="Select Surah"></select>
+        <button id="shuffleBtn" class="ghost" aria-label="Shuffle">Shuffle</button>
+      </nav>
+    </header>
+
+    <main class="container">
+      <section class="meta">
+        <div id="surahMeta" class="surah-meta"></div>
+        <div class="progress-wrap" aria-hidden="true">
+          <div id="progressBar" class="progress"></div>
+        </div>
+        <div id="counter" class="counter" aria-live="polite"></div>
+      </section>
+
+      <section class="card-wrap">
+        <article id="card" class="card" tabindex="0" role="button" aria-pressed="false" aria-label="Flashcard (tap or press F to flip)">
+          <div class="card-face card-front" dir="rtl" lang="ar">
+            <div id="frontText" class="front-text"></div>
+            <div id="frontLang" class="lang-badge">AR</div>
+          </div>
+          <div class="card-face card-back" dir="ltr">
+            <pre id="backText" class="back-text"></pre>
+            <div id="backLang" class="lang-badge">EN</div>
+          </div>
+        </article>
+        <p id="hint" class="hint" aria-live="polite"></p>
+      </section>
+
+      <section class="actions">
+        <button id="prevBtn" class="primary" aria-label="Previous (←)">← Prev</button>
+        <button id="flipBtn" class="secondary" aria-label="Flip (F)">Flip</button>
+        <button id="nextBtn" class="primary" aria-label="Next (→)">Next →</button>
+      </section>
+
+      <section class="help">
+        <details>
+          <summary>Shortcuts</summary>
+          <ul>
+            <li><kbd>→</kbd> Next &nbsp; <kbd>←</kbd> Prev &nbsp; <kbd>F</kbd>/<kbd>Space</kbd> Flip</li>
+            <li>Swipe left/right on mobile to navigate; tap card to flip</li>
+          </ul>
+        </details>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <small>Made for study. Fonts: Amiri (Arabic), Noto Sans.</small>
+    </footer>
+
+    <script type="module" src="./assets/app.js"></script>
+  </body>
+</html>
