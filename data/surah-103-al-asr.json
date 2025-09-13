@@ -1,0 +1,61 @@
+{
+  "surah": "Al-‘Asr",
+  "flashcards": [
+    {
+      "front": {"text": "وَالْعَصْرِ", "language": "ar"},
+      "back": {
+        "text": "Root: ع ص ر (ʿ-Ṣ-R)\nMeaning: By the passage of time, by the afternoon\nPronunciation: Wal-ʿAṣr\nTajweed Rules: **Alif-Lām Qamariyyah** and **Istiʿlā** on the 'ص'.\nDerived Words:\n1. عَصْر (ʿAṣr): Era, time\n2. عَصِير (ʿAṣīr): Juice\nExample Ayah: This word is the title of the Surah.",
+        "language": "en-US"
+      },
+      "hint": {"text": "The oath with which the Surah begins.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "الْإِنسَانَ", "language": "ar"},
+      "back": {
+        "text": "Root: أ ن س (A-N-S)\nMeaning: Mankind, the human being\nPronunciation: Al-Insāna\nTajweed Rules: **Alif-Lām Qamariyyah** and **Ikhfā'** (hiding) of the Nūn.\nDerived Words:\n1. إِنْس (Ins): Humans\n2. نَاس (Nās): People\nExample Ayah: وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِن صَلْصَالٍ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The subject of the oath's statement.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "خُسْرٍ", "language": "ar"},
+      "back": {
+        "text": "Root: خ س ر (Kh-S-R)\nMeaning: Loss, destruction\nPronunciation: Khusr\nTajweed Rules: **Qalqalah** on the 'س'.\nDerived Words:\n1. خَاسِر (Khāsir): A loser\n2. خَسَارَة (Khasārah): A loss\nExample Ayah: إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The state of most of humanity.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "الصَّالِحَاتِ", "language": "ar"},
+      "back": {
+        "text": "Root: ص ل ح (Ṣ-L-Ḥ)\nMeaning: Righteous deeds\nPronunciation: Aṣ-Ṣāliḥāt\nTajweed Rules: **Alif-Lām Shamsiyyah** and **Istiʿlā** on 'صَا'. **Madd Tabi'i** on 'صَا' and 'حَا'.\nDerived Words:\n1. صَالِح (Ṣāliḥ): Righteous\n2. صَلَاح (Ṣalāḥ): Righteousness\nExample Ayah: وَبَشِّرِ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ",
+        "language": "en-US"
+      },
+      "hint": {"text": "One of the two actions that prevent loss.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "وَتَوَاصَوْا", "language": "ar"},
+      "back": {
+        "text": "Root: و ص ي (W-Ṣ-Y)\nMeaning: And advised one another\nPronunciation: Wa-tawāṣaw\nTajweed Rules: **Madd Tabi'i** on 'وَ' and 'صَا'. **Istiʿlā** on 'صَا'.\nDerived Words:\n1. وَصِيَّة (Waṣiyyah): A will, a recommendation\nExample Ayah: وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The action of recommending something to another.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "بِالْحَقِّ", "language": "ar"},
+      "back": {
+        "text": "Root: ح ق ق (Ḥ-Q-Q)\nMeaning: With the truth\nPronunciation: Bil-Ḥaqq\nTajweed Rules: **Alif-Lām Qamariyyah** and **Shaddah** on the 'قّ'.\nDerived Words:\n1. حَقّ (Ḥaqq): Truth, right\n2. حَقِيقَة (Ḥaqīqah): A reality\nExample Ayah: قُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ",
+        "language": "en-US"
+      },
+      "hint": {"text": "One of the two things to advise others with.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "بِالصَّبْرِ", "language": "ar"},
+      "back": {
+        "text": "Root: ص ب ر (Ṣ-B-R)\nMeaning: With patience\nPronunciation: Biṣ-Ṣabr\nTajweed Rules: **Alif-Lām Shamsiyyah**, **Istiʿlā** on 'صَا', and **Qalqalah** on 'ب'.\nDerived Words:\n1. صَبَرَ (Ṣabara): He was patient\n2. صَبُور (Ṣabūr): Very patient\nExample Ayah: وَاسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The other thing to advise others with.", "language": "en-US"}
+    }
+  ]
+}
