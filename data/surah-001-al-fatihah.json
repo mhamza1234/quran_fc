@@ -1,161 +1,109 @@
 {
   "surah": "Al-Fātiḥah",
-  "cards": [
+  "flashcards": [
     {
-      "word": "بِسْمِ",
-      "root": "س م و",
-      "meaning": "In the name of",
-      "pronunciation": "Bism",
-      "tajweed_rules": "Straightforward pronunciation with no major elongation or nasalization rules.",
-      "derived_words": [
-        { "word": "اسْم", "meaning": "Name" },
-        { "word": "سَمَّى", "meaning": "To name" },
-        { "word": "سَمَاء", "meaning": "Sky, heaven" },
-        { "word": "مُسَمًّى", "meaning": "Named, specified" }
-      ]
+      "front": { "text": "بِسْمِ", "language": "ar" },
+      "back": {
+        "text": "Root: س م و (S-M-W)\nMeaning: In the name (of)\nPronunciation: Bismi\nTajweed Rules: Connect with next word when reading.\nDerived Words:\n1. اسْم (Ism): Name\n2. سُمُوّ (Sumūw): Highness\nExample Ayah: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "language": "en-US"
+      },
+      "hint": { "text": "Opening phrase of the surah.", "language": "en-US" }
     },
     {
-      "word": "اللَّهِ",
-      "root": "أ ل ه",
-      "meaning": "Allah, The One God",
-      "pronunciation": "Allāh",
-      "tajweed_rules": "The Lām (ل) is pronounced lightly (Tarqīq) because it is preceded by a kasra, as in Bism-illāh.",
-      "derived_words": [
-        { "word": "إِلَٰه", "meaning": "A god, deity" },
-        { "word": "أُلُوهِيَّة", "meaning": "Divinity" },
-        { "word": "تَأَلَّهَ", "meaning": "To worship" },
-        { "word": "اللَّهُمَّ", "meaning": "O Allah" }
-      ]
+      "front": { "text": "اللَّهِ", "language": "ar" },
+      "back": {
+        "text": "Root: أ ل ه (A-L-H)\nMeaning: Allah (God)\nPronunciation: Allāh\nTajweed Rules: Lām of Allah is heavy (tafkhīm) here because preceded by fatḥah.\nDerived Words:\n1. إِلَٰه (Ilāh): Deity/god\n2. أُلُوهِيَّة (Ulūhiyyah): Divinity\nExample Ayah: الْحَمْدُ لِلَّهِ",
+        "language": "en-US"
+      },
+      "hint": { "text": "The proper name of God.", "language": "en-US" }
     },
     {
-      "word": "الرَّحْمَٰنِ",
-      "root": "ر ح م",
-      "meaning": "The Entirely Merciful",
-      "pronunciation": "Ar-Raḥmān",
-      "tajweed_rules": "Alif-Lām Shamsiyyah (lām silent), Tafkhīm (heavy ر), Madd Ṭabīʿī (elongate mā for 2 counts).",
-      "derived_words": [
-        { "word": "رَحْمَة", "meaning": "Mercy" },
-        { "word": "رَحِيم", "meaning": "The Merciful" },
-        { "word": "أَرْحَام", "meaning": "Wombs" },
-        { "word": "مَرْحُوم", "meaning": "One who has received mercy" }
-      ]
+      "front": { "text": "الرَّحْمَٰنِ", "language": "ar" },
+      "back": {
+        "text": "Root: ر ح م (R-Ḥ-M)\nMeaning: The Most Merciful\nPronunciation: Ar-Raḥmān\nTajweed Rules: Shaddah on ر; heavy ghunnah on م.\nDerived Words:\n1. رَحْمَة (Raḥmah): Mercy\n2. رَحِيم (Raḥīm): Merciful\nExample Ayah: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "language": "en-US"
+      },
+      "hint": { "text": "Overwhelming universal mercy.", "language": "en-US" }
     },
     {
-      "word": "الْحَمْدُ",
-      "root": "ح م د",
-      "meaning": "All praise",
-      "pronunciation": "Al-Ḥamdu",
-      "tajweed_rules": "Alif-Lām Qamariyyah (lām pronounced clearly). Ḥāʾ is whispered (Hams).",
-      "derived_words": [
-        { "word": "حَمَدَ", "meaning": "He praised" },
-        { "word": "مَحْمُود", "meaning": "Praiseworthy" },
-        { "word": "أَحْمَد", "meaning": "Most praised" },
-        { "word": "حَامِد", "meaning": "One who praises" }
-      ]
+      "front": { "text": "الرَّحِيمِ", "language": "ar" },
+      "back": {
+        "text": "Root: ر ح م (R-Ḥ-M)\nMeaning: The Especially Merciful\nPronunciation: Ar-Raḥīm\nTajweed Rules: Similar to الرَّحْمَٰنِ; shaddah on ر.\nDerived Words:\n1. رَحْمَة (Raḥmah): Mercy\nExample Ayah: الرَّحْمَٰنِ الرَّحِيمِ",
+        "language": "en-US"
+      },
+      "hint": { "text": "Mercy specific to the believers.", "language": "en-US" }
     },
     {
-      "word": "رَبِّ",
-      "root": "ر ب ب",
-      "meaning": "Lord, Sustainer",
-      "pronunciation": "Rabb",
-      "tajweed_rules": "ر pronounced heavily (Tafkhīm); ب doubled (Shaddah).",
-      "derived_words": [
-        { "word": "تَرْبِيَة", "meaning": "Upbringing" },
-        { "word": "رَبَّانِي", "meaning": "Lordly, devout" },
-        { "word": "مُرَبِّي", "meaning": "Educator" },
-        { "word": "أَرْبَاب", "meaning": "Lords, masters" }
-      ]
+      "front": { "text": "الْحَمْدُ", "language": "ar" },
+      "back": {
+        "text": "Root: ح م د (Ḥ-M-D)\nMeaning: All praise\nPronunciation: Al-Ḥamdu\nTajweed Rules: Clear ل; qalqalah on د when stopping.\nDerived Words:\n1. مَحْمُود (Maḥmūd): Praised\n2. حَمِيد (Ḥamīd): Praiseworthy\nExample Ayah: الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+        "language": "en-US"
+      },
+      "hint": { "text": "All forms of true praise belong to Allah.", "language": "en-US" }
     },
     {
-      "word": "الْعَالَمِينَ",
-      "root": "ع ل م",
-      "meaning": "The worlds",
-      "pronunciation": "Al-ʿĀlamīn",
-      "tajweed_rules": "Alif-Lām Qamariyyah (clear lām); ʿĀ is elongated 2 counts (Madd Ṭabīʿī).",
-      "derived_words": [
-        { "word": "عِلْم", "meaning": "Knowledge" },
-        { "word": "عَالِم", "meaning": "Scholar" },
-        { "word": "عَلَّمَ", "meaning": "He taught" },
-        { "word": "مَعْلُوم", "meaning": "Known" }
-      ]
+      "front": { "text": "رَبِّ", "language": "ar" },
+      "back": {
+        "text": "Root: ر ب ب (R-B-B)\nMeaning: Lord, Sustainer\nPronunciation: Rabb\nTajweed Rules: Shaddah on ب with ghunnah.\nDerived Words:\n1. تَرْبِيَة (Tarbiya): Nurturing\n2. رُبُوبِيَّة (Rubūbiyyah): Lordship\nExample Ayah: رَبِّ الْعَالَمِينَ",
+        "language": "en-US"
+      },
+      "hint": { "text": "The One who nurtures and sustains.", "language": "en-US" }
     },
     {
-      "word": "مَالِكِ",
-      "root": "م ل ك",
-      "meaning": "Master, Owner",
-      "pronunciation": "Mālik",
-      "tajweed_rules": "Mā elongated 2 counts (Madd Ṭabīʿī).",
-      "derived_words": [
-        { "word": "مَلِك", "meaning": "King" },
-        { "word": "مُلْك", "meaning": "Dominion" },
-        { "word": "مَمْلَكَة", "meaning": "Kingdom" },
-        { "word": "مَلَائِكَة", "meaning": "Angels" }
-      ]
+      "front": { "text": "الْعَالَمِينَ", "language": "ar" },
+      "back": {
+        "text": "Root: ع ل م (ʿ-L-M)\nMeaning: Worlds, all creation\nPronunciation: Al-ʿĀlamīn\nTajweed Rules: Madd at the end (2 counts) when stopping.\nDerived Words:\n1. عِلْم (ʿIlm): Knowledge\n2. عَالِم (ʿĀlim): Knower, scholar\nExample Ayah: رَبِّ الْعَالَمِينَ",
+        "language": "en-US"
+      },
+      "hint": { "text": "All categories of creation.", "language": "en-US" }
     },
     {
-      "word": "نَعْبُدُ",
-      "root": "ع ب د",
-      "meaning": "We worship",
-      "pronunciation": "Naʿbudu",
-      "tajweed_rules": "ʿAyn pronounced distinctly from the throat.",
-      "derived_words": [
-        { "word": "عَبْد", "meaning": "Servant" },
-        { "word": "عِبَادَة", "meaning": "Worship" },
-        { "word": "مَعْبَد", "meaning": "Temple" },
-        { "word": "عَابِد", "meaning": "Worshipper" }
-      ]
+      "front": { "text": "مَالِكِ", "language": "ar" },
+      "back": {
+        "text": "Root: م ل ك (M-L-K)\nMeaning: Owner, King\nPronunciation: Mālik\nTajweed Rules: Natural madd on مَا (2 counts).\nDerived Words:\n1. مَلِك (Malik): King\n2. مِلْك (Milk): Ownership\nExample Ayah: مَالِكِ يَوْمِ الدِّينِ",
+        "language": "en-US"
+      },
+      "hint": { "text": "Absolute Owner of the Day of Judgment.", "language": "en-US" }
     },
     {
-      "word": "اهْدِنَا",
-      "root": "ه د ي",
-      "meaning": "Guide us",
-      "pronunciation": "Ihdinā",
-      "tajweed_rules": "Initial alif silent in continuation (Hamzat-ul-Wasl); nā elongated 2 counts.",
-      "derived_words": [
-        { "word": "هِدَايَة", "meaning": "Guidance" },
-        { "word": "هَادِي", "meaning": "A guide" },
-        { "word": "هَدِيَّة", "meaning": "Gift" },
-        { "word": "مُهْتَدِي", "meaning": "One who is guided" }
-      ]
+      "front": { "text": "يَوْمِ", "language": "ar" },
+      "back": {
+        "text": "Root: ي و م (Y-W-M)\nMeaning: Day\nPronunciation: Yawm\nDerived Words:\n1. أَيَّام (Ayyām): Days\nExample Ayah: مَالِكِ يَوْمِ الدِّينِ",
+        "language": "en-US"
+      },
+      "hint": { "text": "Refers to the Day of Judgment.", "language": "en-US" }
     },
     {
-      "word": "الْمُسْتَقِيمَ",
-      "root": "ق و م",
-      "meaning": "The straight",
-      "pronunciation": "Al-Mustaqīm",
-      "tajweed_rules": "Alif-Lām Qamariyyah (clear lām); qī elongated 2, 4, or 6 counts when stopping (Madd ʿĀriḍ li-s-Sukūn).",
-      "derived_words": [
-        { "word": "قَامَ", "meaning": "He stood" },
-        { "word": "قِيَامَة", "meaning": "Resurrection" },
-        { "word": "قَوْم", "meaning": "People" },
-        { "word": "أَقَامَ", "meaning": "To establish" }
-      ]
+      "front": { "text": "الدِّينِ", "language": "ar" },
+      "back": {
+        "text": "Root: د ي ن (D-Y-N)\nMeaning: Judgment, recompense\nPronunciation: Ad-Dīn\nDerived Words:\n1. دِين (Dīn): Religion\n2. مَدِين (Madīn): Indebted\nExample Ayah: مَالِكِ يَوْمِ الدِّينِ",
+        "language": "en-US"
+      },
+      "hint": { "text": "The Day of Recompense.", "language": "en-US" }
     },
     {
-      "word": "الْمَغْضُوبِ",
-      "root": "غ ض ب",
-      "meaning": "Those who have earned Your anger",
-      "pronunciation": "Al-Maghḍūb",
-      "tajweed_rules": "غ and ض are heavy (Istiʿlā); ض has Istiṭālah (elongated quality).",
-      "derived_words": [
-        { "word": "غَضَب", "meaning": "Anger" },
-        { "word": "غَاضِب", "meaning": "Angry" },
-        { "word": "أَغْضَبَ", "meaning": "To make someone angry" },
-        { "word": "غَضْبَان", "meaning": "Furious" }
-      ]
+      "front": { "text": "اهْدِنَا", "language": "ar" },
+      "back": {
+        "text": "Root: ه د ي (H-D-Y)\nMeaning: Guide us\nPronunciation: Ihdina\nDerived Words:\n1. هُدًى (Hudā): Guidance\n2. هَادٍ (Hādī): Guide\nExample Ayah: اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+        "language": "en-US"
+      },
+      "hint": { "text": "A plea for guidance to the straight path.", "language": "en-US" }
     },
     {
-      "word": "الضَّالِّينَ",
-      "root": "ض ل ل",
-      "meaning": "Those who go astray",
-      "pronunciation": "Aḍ-Ḍāllīn",
-      "tajweed_rules": "Madd Lāzim Kalimī Muthaqqal (ḍā elongated 6 counts due to shaddah).",
-      "derived_words": [
-        { "word": "ضَلَال", "meaning": "Error, misguidance" },
-        { "word": "ضَلَّ", "meaning": "He went astray" },
-        { "word": "مُضِلّ", "meaning": "One who misleads" },
-        { "word": "ضَالّ", "meaning": "One who is astray" }
-      ]
+      "front": { "text": "الصِّرَاطَ", "language": "ar" },
+      "back": {
+        "text": "Root: ص ر ط (Ṣ-R-Ṭ)\nMeaning: Path\nPronunciation: As-Ṣirāṭ\nTajweed Rules: Ṣād is heavy (tafkhīm).\nDerived Words:\n1. صَرِيط (Ṣarīṭ): Road/path\nExample Ayah: الصِّرَاطَ الْمُسْتَقِيمَ",
+        "language": "en-US"
+      },
+      "hint": { "text": "The straight way of guidance.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "الْمُسْتَقِيمَ", "language": "ar" },
+      "back": {
+        "text": "Root: ق و م (Q-W-M)\nMeaning: Straight, upright\nPronunciation: Al-Mustaqīm\nDerived Words:\n1. قَامَ (Qāma): To stand\n2. اسْتِقَامَ (Istiqaama): To be upright\nExample Ayah: الصِّرَاطَ الْمُسْتَقِيمَ",
+        "language": "en-US"
+      },
+      "hint": { "text": "The perfectly upright path.", "language": "en-US" }
     }
   ]
 }
