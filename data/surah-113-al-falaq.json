@@ -1,0 +1,85 @@
+{
+  "surah": "Al-Falaq",
+  "flashcards": [
+    {
+      "front": {"text": "قُلْ", "language": "ar"},
+      "back": {
+        "text": "Root: ق و ل (Q-W-L)\nMeaning: Say\nPronunciation: Qul\nTajweed Rules: Qalqalah on the 'ل' when stopping.\nDerived Words:\n1. قَوْل (Qawl): Saying\n2. قَال (Qāla): He said\n3. مَقُول (Maqūl): That which is said\n4. قَائِل (Qā'il): A sayer\nExample Ayah: وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The command to begin reciting.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "أَعُوذُ", "language": "ar"},
+      "back": {
+        "text": "Root: ع و ذ (`-W-DH)\nMeaning: I seek refuge\nPronunciation: A'ūdhu\nTajweed Rules: Madd Tabi'i on the 'عُو'. The 'ذ' is pronounced with the tip of the tongue.\nDerived Words:\n1. مَعَاذ (Ma`ādh): Refuge\n2. عِياذَة (`Iyādhah): Refuge-seeking\n3. اسْتِعَاذَة (Isti`ādhah): Seeking protection\n4. مُعِيذ (Mu`īdh): A protector\nExample Ayah: فَإِذَا قَرَأْتَ الْقُرْآنَ فَاسْتَعِذْ بِاللَّهِ",
+        "language": "en-US"
+      },
+      "hint": {"text": "A key declaration in the Surah.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "بِرَبِّ", "language": "ar"},
+      "back": {
+        "text": "Root: ر ب ب (R-B-B)\nMeaning: In the Lord\nPronunciation: Birabb\nTajweed Rules: Tafkhīm on the 'ر' and a Shaddah on the 'ب'.\nDerived Words:\n1. تَرْبِيَة (Tarbiyah): Upbringing\n2. رَبَّى (Rabbā): He raised\n3. أَرْبَاب (Arbāb): Lords\n4. رَبَّانِيّ (Rabbāniyy): Lordly\nExample Ayah: بَلْدَةٌ طَيِّبَةٌ وَرَبٌّ غَفُورٌ",
+        "language": "en-US"
+      },
+      "hint": {"text": "Refers to the Lord of daybreak.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "الْفَلَقِ", "language": "ar"},
+      "back": {
+        "text": "Root: ف ل ق (F-L-Q)\nMeaning: The daybreak, the cleaving\nPronunciation: Al-Falaq\nTajweed Rules: Alif-Lām Qamariyyah and Qalqalah on the 'ق' when stopping.\nDerived Words:\n1. فَلَقَ (Falaqa): He cleaved\n2. اِنْفَلَقَ (Infalaqa): It was split\n3. فَلِيق (Falīq): A part\n4. فِلْقَة (Filqah): A piece or part\nExample Ayah: فَالِقُ الْحَبِّ وَالنَّوَى",
+        "language": "en-US"
+      },
+      "hint": {"text": "The time of dawn, when things are cleaved from darkness.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "شَرِّ", "language": "ar"},
+      "back": {
+        "text": "Root: ش ر ر (Sh-R-R)\nMeaning: Evil\nPronunciation: Sharri\nTajweed Rules: Tafkhīm on the 'ر' and a Shaddah on the 'ر'.\nDerived Words:\n1. أَشَرّ (Asharr): More evil\n2. شِرَار (Shirār): Wicked ones\n3. شَرِير (Sharīr): A wicked person\n4. شُرُور (Shurūr): Evils\nExample Ayah: وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The word for what we seek protection from.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "خَلَقَ", "language": "ar"},
+      "back": {
+        "text": "Root: خ ل ق (Kh-L-Q)\nMeaning: He created\nPronunciation: Khalaq\nTajweed Rules: Tafkhīm on the 'خ' and 'ق'; Qalqalah on the 'ق' when stopping.\nDerived Words:\n1. خَلْق (Khalq): Creation\n2. مَخْلُوق (Makhlūq): A created being\n3. خَلَّاق (Khallāq): The Creator\n4. أَخْلَاق (Akhlāq): Morals, character\nExample Ayah: هُوَ الَّذِي خَلَقَ لَكُم مَّا فِي الْأَرْضِ جَمِيعًا",
+        "language": "en-US"
+      },
+      "hint": {"text": "Refers to all of creation.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "غَاسِقٍ", "language": "ar"},
+      "back": {
+        "text": "Root: غ س ق (Gh-S-Q)\nMeaning: Of darkness\nPronunciation: Ghāsiqin\nTajweed Rules: Isti'lā (heaviness) on the 'غ'. Madd Tabi'i on 'ghā'.\nDerived Words:\n1. غَسَق (Ghasaq): Twilight, intense darkness\n2. غَسَقَ (Ghasaq): It became dark\n3. إِغْسَاق (Ighsāq): The coming of darkness\n4. مُغْسِق (Mughsiq): One who enters darkness\nExample Ayah: إِلَىٰ غَسَقِ اللَّيْلِ",
+        "language": "en-US"
+      },
+      "hint": {"text": "A type of evil that comes with the night.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "الْعُقَدِ", "language": "ar"},
+      "back": {
+        "text": "Root: ع ق د (`-Q-D)\nMeaning: The knots\nPronunciation: Al-`Uqad\nTajweed Rules: Alif-Lām Qamariyyah and Qalqalah on the 'ق' when stopping.\nDerived Words:\n1. عُقْدَة (`Uqdah): A knot\n2. عَقْد (`Aqd): A contract\n3. عَقَّدَ (`Aqqada): He knotted\n4. مَعْقُود (Ma`qūd): Knotted\nExample Ayah: أَوْفُوا بِالْعُقُودِ",
+        "language": "en-US"
+      },
+      "hint": {"text": "Refers to knots used in magic.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "حَاسِدٍ", "language": "ar"},
+      "back": {
+        "text": "Root: ح س د (Ḥ-S-D)\nMeaning: An envier\nPronunciation: Ḥāsidin\nTajweed Rules: Madd Tabi'i on 'ḥā' for 2 counts.\nDerived Words:\n1. حَسَد (Ḥasad): Envy\n2. حَسَدَ (Ḥasada): He envied\n3. مَحْسُود (Maḥsūd): Envied\n4. حَسُود (Ḥasūd): Very envious\nExample Ayah: أَمْ يَحْسُدُونَ النَّاسَ عَلَىٰ مَا آتَاهُمُ اللَّهُ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The word for one who feels envy.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "حَسَدَ", "language": "ar"},
+      "back": {
+        "text": "Root: ح س د (Ḥ-S-D)\nMeaning: He envies\nPronunciation: Ḥasada\nTajweed Rules: Standard pronunciation, no major rules.\nDerived Words:\n1. حَسَد (Ḥasad): Envy\n2. حَاسِد (Ḥāsid): An envier\n3. مَحْسُود (Maḥsūd): Envied\n4. حَسُود (Ḥasūd): Very envious\nExample Ayah: وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The verb form of envy.", "language": "en-US"}
+    }
+  ]
+}
