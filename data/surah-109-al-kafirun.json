@@ -1,0 +1,45 @@
+{
+  "surah": "Al-Kafirun",
+  "flashcards": [
+    {
+      "front": {"text": "قُلْ", "language": "ar"},
+      "back": {
+        "text": "Root: ق و ل (Q-W-L)\nMeaning: Say\nPronunciation: Qul\nTajweed Rules: **Qalqalah** on the final 'ل' (Lām) when stopping. The 'ق' (Qāf) is a heavy letter.\nDerived Words:\n1. قَال (Qāl): He said\n2. قَوْل (Qawl): A saying\nExample Ayah: قُلْ هُوَ اللَّهُ أَحَدٌ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The command to the Prophet (peace be upon him).", "language": "en-US"}
+    },
+    {
+      "front": {"text": "الْكَافِرُونَ", "language": "ar"},
+      "back": {
+        "text": "Root: ك ف ر (K-F-R)\nMeaning: The disbelievers\nPronunciation: Al-Kāfirūn\nTajweed Rules: **Alif-Lām Qamariyyah** and **Madd Tabi'i** on the 'كَا' and 'رُو'.\nDerived Words:\n1. كُفْر (Kufr): Disbelief\n2. كَافِر (Kāfir): A disbeliever\nExample Ayah: إِنَّ الَّذِينَ كَفَرُوا سَوَاءٌ عَلَيْهِمْ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The people being addressed in the Surah.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "أَعْبُدُ", "language": "ar"},
+      "back": {
+        "text": "Root: ع ب د (ʿ-B-D)\nMeaning: I worship\nPronunciation: Aʿbudu\nTajweed Rules: The 'ع' (ʿAyn) is a middle throat letter.\nDerived Words:\n1. عَبْد (ʿAbd): A servant, slave\n2. عِبَادَة (ʿIbādah): Worship\nExample Ayah: إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The action of serving and worshipping Allah.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "تَعْبُدُونَ", "language": "ar"},
+      "back": {
+        "text": "Root: ع ب د (ʿ-B-D)\nMeaning: You worship\nPronunciation: Taʿbudūn\nTajweed Rules: **Madd Tabi'i** on the 'دُو'.\nDerived Words:\n1. عَبْد (ʿAbd): A servant\n2. عِبَادَة (ʿIbādah): Worship\nExample Ayah: وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The action of the disbelievers that the Prophet disassociates from.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "دِينُكُمْ", "language": "ar"},
+      "back": {
+        "text": "Root: د ي ن (D-Y-N)\nMeaning: Your religion\nPronunciation: Dīnukum\nTajweed Rules: **Madd Tabi'i** on the 'دِي'.\nDerived Words:\n1. دِين (Dīn): Religion, way of life\n2. دَائِن (Dāʾin): A creditor\nExample Ayah: إِنَّ الدِّينَ عِندَ اللَّهِ الْإِسْلَامُ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The final statement affirming separation of faiths.", "language": "en-US"}
+    }
+  ]
+}
