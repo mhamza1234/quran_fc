@@ -1,0 +1,109 @@
+{
+  "surah": "Al-Fīl",
+  "flashcards": [
+    {
+      "front": { "text": "أَلَمْ", "language": "ar" },
+      "back": {
+        "text": "Root: — (particle)\nMeaning: Have not?\nPronunciation: Alam\nTajweed Rules: Standard pronunciation.\nDerived Words: As a particle, it has no derived words.\nExample Ayah: أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+        "language": "en-US"
+      },
+      "hint": { "text": "A rhetorical question.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "تَرَ", "language": "ar" },
+      "back": {
+        "text": "Root: ر أ ي (R-ʾ-Y)\nMeaning: You see / have you seen\nPronunciation: Tara\nTajweed Rules: Standard pronunciation.\nDerived Words:\n1. رُؤْيَة (Ruʾyah): A vision\n2. رَأَى (Raʾā): He saw\n3. رَاءٍ (Rāʾin): A seer\nExample Ayah: وَتَرَى الْجِبَالَ تَحْسَبُهَا جَامِدَةً",
+        "language": "en-US"
+      },
+      "hint": { "text": "Part of the opening rhetorical question.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "بِأَصْحَابِ", "language": "ar" },
+      "back": {
+        "text": "Root: ص ح ب (Ṣ-Ḥ-B)\nMeaning: With the companions of\nPronunciation: Bi-aṣḥābi\nTajweed Rules: Istiʿlā on صَا.\nDerived Words:\n1. صَاحِب (Ṣāḥib): Companion\n2. صَحَابَة (Ṣaḥābah): Companions of the Prophet\n3. مُصَاحَبَة (Muṣāḥabah): Companionship\nExample Ayah: يَا صَاحِبَيِ السِّجْنِ",
+        "language": "en-US"
+      },
+      "hint": { "text": "Refers to the army of Abraha.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "الْفِيلِ", "language": "ar" },
+      "back": {
+        "text": "Root: ف ي ل (F-Y-L)\nMeaning: The elephant\nPronunciation: Al-Fīl\nTajweed Rules: Alif-Lām Qamariyyah; Madd Ṭabīʿī on فِي.\nDerived Words: This noun is unique to this Surah in the Qurʾān.\nExample Ayah: This is the name of the Surah.",
+        "language": "en-US"
+      },
+      "hint": { "text": "The title of the Surah.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "كَيْدَهُمْ", "language": "ar" },
+      "back": {
+        "text": "Root: ك ي د (K-Y-D)\nMeaning: Their plan, their scheme\nPronunciation: Kaydahum\nTajweed Rules: Layyin on كَيْ.\nDerived Words:\n1. كَادَ (Kāda): He planned\n2. كَيْد (Kayd): A plan\nExample Ayah: إِنَّ كَيْدَ الشَّيْطَانِ كَانَ ضَعِيفًا",
+        "language": "en-US"
+      },
+      "hint": { "text": "Refers to the scheme of the army of the elephant.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "تَضْلِيلٍ", "language": "ar" },
+      "back": {
+        "text": "Root: ض ل ل (Ḍ-L-L)\nMeaning: In error, astray\nPronunciation: Taḍlīl\nTajweed Rules: Tafkhīm on ضَ; Shaddah on لِّ; Madd Ṭabīʿī on لِي.\nDerived Words:\n1. ضَلَّ (Ḍalla): He went astray\n2. ضَلَال (Ḍalāl): Error\n3. مُضِلّ (Muḍill): One who leads astray\nExample Ayah: وَمَا تَضْلِيلُهُمْ إِلَّا فِي ضَلَالٍ",
+        "language": "en-US"
+      },
+      "hint": { "text": "The result of their plot.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "وَأَرْسَلَ", "language": "ar" },
+      "back": {
+        "text": "Root: ر س ل (R-S-L)\nMeaning: And (He) sent\nPronunciation: Wa-arsala\nTajweed Rules: Standard pronunciation.\nDerived Words:\n1. رَسُول (Rasūl): Messenger\n2. رِسَالَة (Risālah): Message\n3. إِرْسَال (Irsāl): Sending\nExample Ayah: أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ",
+        "language": "en-US"
+      },
+      "hint": { "text": "The action of Allah.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "طَيْرًا", "language": "ar" },
+      "back": {
+        "text": "Root: ط ي ر (Ṭ-Y-R)\nMeaning: Birds\nPronunciation: Ṭayran\nTajweed Rules: Tafkhīm on Ṭ; Layyin on Ṭَيْ.\nDerived Words:\n1. طَارَ (Ṭāra): It flew\n2. تَطْيِير (Taṭyīr): Causing to fly\nExample Ayah: وَلَا طَائِرٍ يَطِيرُ بِجَنَاحَيْهِ",
+        "language": "en-US"
+      },
+      "hint": { "text": "The creatures sent by Allah.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "أَبَابِيلَ", "language": "ar" },
+      "back": {
+        "text": "Root: — (plural, no common singular)\nMeaning: In flocks\nPronunciation: Abābīl\nTajweed Rules: Madd Ṭabīʿī on بَا and بِي.\nDerived Words: No clear singular form in Arabic usage.\nExample Ayah: Unique to this Surah in the Qurʾān.",
+        "language": "en-US"
+      },
+      "hint": { "text": "A description of the birds' number.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "تَرْمِيهِم", "language": "ar" },
+      "back": {
+        "text": "Root: ر م ي (R-M-Y)\nMeaning: (They were) pelting/throwing at them\nPronunciation: Tarmīhim\nTajweed Rules: Madd Ṭabīʿī on مِي.\nDerived Words:\n1. رَمَى (Ramā): He threw\n2. رَمْي (Ramy): Throwing\nExample Ayah: وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَٰكِنَّ اللَّهَ رَمَىٰ",
+        "language": "en-US"
+      },
+      "hint": { "text": "The action of the birds.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "بِحِجَارَةٍ", "language": "ar" },
+      "back": {
+        "text": "Root: ح ج ر (Ḥ-J-R)\nMeaning: With stones\nPronunciation: Biḥijāratin\nTajweed Rules: Madd Ṭabīʿī on جَا.\nDerived Words:\n1. حَجَر (Ḥajar): Stone\n2. مَحْجُور (Maḥjūr): Forbidden/blocked off\nExample Ayah: فَاضْرِب بِّعَصَاكَ الْحَجَرَ",
+        "language": "en-US"
+      },
+      "hint": { "text": "The projectiles used by the birds.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "سِجِّيلٍ", "language": "ar" },
+      "back": {
+        "text": "Root: س ج ل (S-J-L) — word of non-Arabic origin used in Qurʾān\nMeaning: Baked clay (hard clay stones)\nPronunciation: Sijjīl\nTajweed Rules: Shaddah on جّ; Madd Ṭabīʿī on جِي.\nDerived Words:\n1. سَجَلَ (Sajala): He recorded (different meaning; lexical root association varies)\nExample Ayah: وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن سِجِّيلٍ",
+        "language": "en-US"
+      },
+      "hint": { "text": "The material of the stones.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "مَّأْكُولٍ", "language": "ar" },
+      "back": {
+        "text": "Root: أ ك ل (A-K-L)\nMeaning: Eaten\nPronunciation: Maʾkūl\nTajweed Rules: Shaddah on مّ; Madd Ṭabīʿī on كُو.\nDerived Words:\n1. أَكَلَ (Akala): He ate\n2. أَكْل (Akl): Eating\n3. مَأْكَل (Maʾkal): Food/food place\nExample Ayah: Unique usage in this specific context in the Qurʾān.",
+        "language": "en-US"
+      },
+      "hint": { "text": "A description of the army's final state.", "language": "en-US" }
+    }
+  ]
+}
