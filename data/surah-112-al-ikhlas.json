@@ -1,0 +1,69 @@
+{
+  "surah": "Al-Ikhlāṣ",
+  "flashcards": [
+    {
+      "front": { "text": "قُلْ", "language": "ar" },
+      "back": {
+        "text": "Root: ق و ل (Q-W-L)\nMeaning: Say\nPronunciation: Qul\nTajweed Rules: No qalqalah here (you stop on ل, which is not a qalqalah letter). ق is heavy (tafkhīm); clear sukun on ل when stopping.\nDerived Words:\n1. قَوْل (Qawl): Saying\n2. قَالَ (Qāla): He said\n3. مَقُول (Maqūl): That which is said\n4. قَائِل (Qāʾil): A sayer\nExample Ayah: وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ",
+        "language": "en-US"
+      },
+      "hint": { "text": "The command to begin reciting.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "هُوَ", "language": "ar" },
+      "back": {
+        "text": "Root: — (pronoun)\nMeaning: He\nPronunciation: Huwa\nTajweed Rules: Standard pronunciation.\nDerived Words: As a pronoun, it has no derived words.\nExample Ayah: هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ",
+        "language": "en-US"
+      },
+      "hint": { "text": "Refers to Allah.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "اللَّهُ", "language": "ar" },
+      "back": {
+        "text": "Root: أ ل ه (A-L-H)\nMeaning: Allah\nPronunciation: Allāh\nTajweed Rules: Lām of “Allah” is heavy (tafkhīm) when preceded by fatḥah or ḍamma (as in هُوَ اللَّهُ), and light (tarqīq) when preceded by kasrah.\nDerived Words:\n1. إِلَٰه (Ilāh): A god, deity\n2. أُلُوهِيَّة (Ulūhiyyah): Divinity\n3. اللَّهُمَّ (Allāhumma): O Allah\n4. تَأَلَّهَ (Taʾallaha): To worship\nExample Ayah: لَا إِلَٰهَ إِلَّا اللَّهُ",
+        "language": "en-US"
+      },
+      "hint": { "text": "The proper name for God in Islam.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "أَحَدٌ", "language": "ar" },
+      "back": {
+        "text": "Root: و ح د (W-Ḥ-D)\nMeaning: One, Unique\nPronunciation: Aḥad\nTajweed Rules: Qalqalah on د when stopping (…أَحَدْ).\nDerived Words:\n1. وَحْدَة (Waḥdah): Oneness\n2. وَاحِد (Wāḥid): One\n3. أَوْحَد (Awḥad): Unique\n4. مُوَحِّد (Muwahhid): A monotheist\nExample Ayah: قُلْ هُوَ اللَّهُ أَحَدٌ",
+        "language": "en-US"
+      },
+      "hint": { "text": "The core message of the Sūrah.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "الصَّمَدُ", "language": "ar" },
+      "back": {
+        "text": "Root: ص م د (Ṣ-M-D)\nMeaning: The Eternal Refuge, The Self-Sufficient\nPronunciation: Aṣ-Ṣamad\nTajweed Rules: Alif-Lām shamsiyyah (ل assimilates into ص); Ṣād is heavy (tafkhīm); qalqalah on د when stopping.\nDerived Words:\n1. صَمْد (Ṣamd): Refuge/being turned to\n2. تَصْمِيد (Taṣmīd): Turning to for refuge\nExample Ayah: This word is unique to this Sūrah in the Qurʾān.",
+        "language": "en-US"
+      },
+      "hint": { "text": "The One all turn to for their needs.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "يَلِدْ", "language": "ar" },
+      "back": {
+        "text": "Root: و ل د (W-L-D)\nMeaning: He begets\nPronunciation: yalid\nTajweed Rules: Qalqalah on د when stopping (…يَلِدْ).\nDerived Words:\n1. وَلَد (Walad): A child\n2. مَوْلِد (Mawlid): Birth\n3. وِلَادَة (Wilādah): Childbirth\n4. أَوْلَاد (Awlād): Children\nExample Ayah: وَلَمْ يَلِدْ",
+        "language": "en-US"
+      },
+      "hint": { "text": "Part of the negation of Allah having offspring.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "يُولَدْ", "language": "ar" },
+      "back": {
+        "text": "Root: و ل د (W-L-D)\nMeaning: He is begotten\nPronunciation: yūlad\nTajweed Rules: Madd ṭabīʿī on يُو (2 counts); qalqalah on د when stopping (…يُولَدْ).\nDerived Words:\n1. وَلَد (Walad): A child\n2. مَوْلِد (Mawlid): Birth\n3. وِلَادَة (Wilādah): Childbirth\n4. أَوْلَاد (Awlād): Children\nExample Ayah: وَلَمْ يُولَدْ",
+        "language": "en-US"
+      },
+      "hint": { "text": "The negation of Allah being born.", "language": "en-US" }
+    },
+    {
+      "front": { "text": "كُفُوًا", "language": "ar" },
+      "back": {
+        "text": "Root: ك ف أ (K-F-ʾ)\nMeaning: An equal, a match\nPronunciation: kufuwan\nTajweed Rules: Iẓhār ḥalqī of the tanwīn before hamzah in the next word (…كُفُوًا أَحَدٌ).\nDerived Words:\n1. كَفَاءَة (Kafāʾah): Competence\n2. كُفْء (Kufʾ): An equal/match\n3. أَكْفَاء (Akfāʾ): Equals\nExample Ayah: وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+        "language": "en-US"
+      },
+      "hint": { "text": "Affirms that nothing is comparable to Allah.", "language": "en-US" }
+    }
+  ]
+}
