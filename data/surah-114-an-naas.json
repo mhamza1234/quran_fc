@@ -1,0 +1,93 @@
+{
+  "surah": "An-Nās",
+  "flashcards": [
+    {
+      "front": {"text": "قُلْ", "language": "ar"},
+      "back": {
+        "text": "Root: ق و ل (Q-W-L)\nMeaning: Say\nPronunciation: Qul\nTajweed Rules: Qalqalah on the 'ل' when stopping.\nDerived Words:\n1. قَوْل (Qawl): Saying\n2. قَال (Qāla): He said\n3. مَقُول (Maqūl): That which is said\n4. قَائِل (Qā'il): A sayer\nExample Ayah: وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The command to begin reciting.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "أَعُوذُ", "language": "ar"},
+      "back": {
+        "text": "Root: ع و ذ (`-W-DH)\nMeaning: I seek refuge\nPronunciation: A'ūdhu\nTajweed Rules: Madd Tabi'i on the 'عُو'. The 'ذ' is pronounced with the tip of the tongue.\nDerived Words:\n1. مَعَاذ (Ma`ādh): Refuge\n2. عِياذَة (`Iyādhah): Refuge-seeking\n3. اسْتِعَاذَة (Isti`ādhah): Seeking protection\n4. مُعِيذ (Mu`īdh): A protector\nExample Ayah: فَإِذَا قَرَأْتَ الْقُرْآنَ فَاسْتَعِذْ بِاللَّهِ",
+        "language": "en-US"
+      },
+      "hint": {"text": "A key declaration in the Surah.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "بِرَبِّ", "language": "ar"},
+      "back": {
+        "text": "Root: ر ب ب (R-B-B)\nMeaning: In the Lord\nPronunciation: Birabb\nTajweed Rules: Tafkhīm on the 'ر' and a Shaddah on the 'ب'.\nDerived Words:\n1. تَرْبِيَة (Tarbiyah): Upbringing\n2. رَبَّى (Rabbā): He raised\n3. أَرْبَاب (Arbāb): Lords\n4. رَبَّانِيّ (Rabbāniyy): Lordly\nExample Ayah: بَلْدَةٌ طَيِّبَةٌ وَرَبٌّ غَفُورٌ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The first of Allah's three attributes mentioned.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "النَّاسِ", "language": "ar"},
+      "back": {
+        "text": "Root: ن و س (N-W-S)\nMeaning: The people, mankind\nPronunciation: An-Nās\nTajweed Rules: Alif-Lām Shamsiyyah and Ghunna on the 'نّ'. Madd Tabi'i on 'نَا'.\nDerived Words:\n1. إِنسَان (Insān): A human being\n2. أَنَس (Anas): Companionship\n3. نَاس (Nās): People\n4. أُنَاسِيّ (Unāsiyy): Human-like\nExample Ayah: وَخَلَقَ الْجِنَّ وَالْإِنسَانَ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The central subject of the Surah.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "مَلِكِ", "language": "ar"},
+      "back": {
+        "text": "Root: م ل ك (M-L-K)\nMeaning: King\nPronunciation: Maliki\nTajweed Rules: Standard pronunciation, no Madd as in Surah Al-Fatiha's 'Māliki'.\nDerived Words:\n1. مَلَك (Malak): Angel\n2. مُلْك (Mulk): Dominion\n3. مَلَكُوت (Malakūt): Sovereignty\n4. مَلِكَة (Malikah): Queen\nExample Ayah: قُلِ اللَّهُمَّ مَالِكَ الْمُلْكِ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The second attribute of Allah.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "إِلَٰهِ", "language": "ar"},
+      "back": {
+        "text": "Root: أ ل ه (A-L-H)\nMeaning: God, Deity\nPronunciation: Ilāh\nTajweed Rules: Madd Tabi'i on the 'ā' for 2 counts.\nDerived Words:\n1. أُلُوهِيَّة (Ulūhiyyah): Divinity\n2. تَأَلَّهَ (Ta'allaha): To worship\n3. لَاهُوت (Lāhūt): Divine nature\n4. اللَّهُمَّ (Allāhumma): O Allah\nExample Ayah: لَا إِلَٰهَ إِلَّا هُوَ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The third and final attribute of Allah.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "شَرِّ", "language": "ar"},
+      "back": {
+        "text": "Root: ش ر ر (Sh-R-R)\nMeaning: Evil\nPronunciation: Sharri\nTajweed Rules: Tafkhīm on the 'ر' and a Shaddah on the 'ر'.\nDerived Words:\n1. أَشَرّ (Asharr): More evil\n2. شِرَار (Shirār): Wicked ones\n3. شَرِير (Sharīr): A wicked person\n4. شُرُور (Shurūr): Evils\nExample Ayah: وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The word for what we seek protection from.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "الْوَسْوَاسِ", "language": "ar"},
+      "back": {
+        "text": "Root: و س و س (W-S-W-S)\nMeaning: The whisperer\nPronunciation: Al-Waswās\nTajweed Rules: Alif-Lām Qamariyyah on 'الْ'. The 'سَا' is a Madd Tabi'i.\nDerived Words:\n1. وَسْوَسَة (Waswasah): Whispering\n2. مُوَسْوِس (Muwaswis): One who whispers\nExample Ayah: فَوَسْوَسَ لَهُمَا الشَّيْطَانُ",
+        "language": "en-US"
+      },
+      "hint": {"text": "A description of the devil's action.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "الْخَنَّاسِ", "language": "ar"},
+      "back": {
+        "text": "Root: خ ن س (Kh-N-S)\nMeaning: The one who withdraws\nPronunciation: Al-Khannās\nTajweed Rules: Alif-Lām Qamariyyah and Ghunna on the 'نّ'. Madd Tabi'i on 'نَا'.\nDerived Words:\n1. خَنَسَ (Khanasa): He withdrew\n2. خُنُوس (Khunūs): Withdrawal\n3. خَانِس (Khānis): One who withdraws\nExample Ayah: فَلَا أُقْسِمُ بِالْخُنَّسِ",
+        "language": "en-US"
+      },
+      "hint": {"text": "A characteristic of the whisperer.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "صُدُورِ", "language": "ar"},
+      "back": {
+        "text": "Root: ص د ر (Ṣ-D-R)\nMeaning: Chests\nPronunciation: Ṣudūr\nTajweed Rules: Isti'lā (heaviness) on 'ص'. Madd Tabi'i on 'دُو'.\nDerived Words:\n1. صَدْر (Ṣadr): Chest\n2. مَصْدَر (Maṣdar): Source\n3. صَادِر (Ṣādir): Coming from\n4. إِصْدَار (Iṣdār): Issuance\nExample Ayah: أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+        "language": "en-US"
+      },
+      "hint": {"text": "Where the whispers are directed.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "الْجِنَّةِ", "language": "ar"},
+      "back": {
+        "text": "Root: ج ن ن (J-N-N)\nMeaning: The Jinn\nPronunciation: Al-Jinnah\nTajweed Rules: Alif-Lām Qamariyyah and Ghunna on the 'نّ'.\nDerived Words:\n1. جِنّ (Jinn): Jinn\n2. جَنَّة (Jannah): Garden, Paradise\n3. مَجْنُون (Majnūn): Insane\n4. جَنِين (Janīn): An embryo\nExample Ayah: وَخَلَقَ الْجِنَّ وَالْإِنْسَانَ",
+        "language": "en-US"
+      },
+      "hint": {"text": "One of the two sources of evil whispers.", "language": "en-US"}
+    }
+  ]
+}
