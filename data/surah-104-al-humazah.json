@@ -1,0 +1,101 @@
+{
+  "surah": "Al-Humazah",
+  "flashcards": [
+    {
+      "front": {"text": "وَيْلٌ", "language": "ar"},
+      "back": {
+        "text": "Root: و ي ل (W-Y-L)\nMeaning: Woe, destruction\nPronunciation: Waylun\nTajweed Rules: **Layyin** on the 'وَيْ'.\nDerived Words:\n1. وَيْل (Wayl): Woe\nExample Ayah: فَوَيْلٌ لِّلَّذِينَ يَكْتُبُونَ الْكِتَابَ بِأَيْدِيهِمْ",
+        "language": "en-US"
+      },
+      "hint": {"text": "A declaration of doom.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "هُمَزَةٍ", "language": "ar"},
+      "back": {
+        "text": "Root: ه م ز (H-M-Z)\nMeaning: Slanderer\nPronunciation: Humazatin\nTajweed Rules: **Ghunna** on the tanween.\nDerived Words:\n1. هَمْز (Hamz): Slander\nExample Ayah: This word is unique to this Surah in the Qur'an.",
+        "language": "en-US"
+      },
+      "hint": {"text": "The first person mentioned in the Surah's title.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "لُّمَزَةٍ", "language": "ar"},
+      "back": {
+        "text": "Root: ل م ز (L-M-Z)\nMeaning: Backbiter\nPronunciation: Lumazatin\nTajweed Rules: **Shaddah** on the 'لّ'.\nDerived Words:\n1. لَمْز (Lamz): Backbiting\nExample Ayah: الَّذِينَ يَلْمِزُونَ الْمُطَّوِّعِينَ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The second type of person mentioned.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "جَمَعَ", "language": "ar"},
+      "back": {
+        "text": "Root: ج م ع (J-M-ʿ)\nMeaning: Has gathered\nPronunciation: Jamaʿa\nTajweed Rules: Standard pronunciation.\nDerived Words:\n1. جَمْع (Jamʿ): Gathering\n2. جُمُوع (Jumūʿ): Crowds\n3. مَجْمَع (Majmaʿ): Place of gathering\nExample Ayah: رَبَّنَا إِنَّكَ جَامِعُ النَّاسِ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The action of the wealthy person.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "مَالًا", "language": "ar"},
+      "back": {
+        "text": "Root: م و ل (M-W-L)\nMeaning: Wealth, property\nPronunciation: Mālan\nTajweed Rules: **Madd Tabi'i** on 'مَا'.\nDerived Words:\n1. مَال (Māl): Wealth\nExample Ayah: الْمَالُ وَالْبَنُونَ زِينَةُ الْحَيَاةِ الدُّنْيَا",
+        "language": "en-US"
+      },
+      "hint": {"text": "What the person gathered and counted.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "الْحُطَمَةِ", "language": "ar"},
+      "back": {
+        "text": "Root: ح ط م (Ḥ-Ṭ-M)\nMeaning: The Crushing Fire\nPronunciation: Al-Ḥuṭamah\nTajweed Rules: **Alif-Lām Qamariyyah**.\nDerived Words:\n1. حُطَام (Ḥuṭām): Debris, broken pieces\n2. حَطَمَ (Ḥaṭama): He smashed\nExample Ayah: This noun is unique to this Surah in the Qur'an.",
+        "language": "en-US"
+      },
+      "hint": {"text": "A name for Hellfire.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "الْمُوقَدَةُ", "language": "ar"},
+      "back": {
+        "text": "Root: و ق د (W-Q-D)\nMeaning: The kindled, the lit\nPronunciation: Al-Mūqadah\nTajweed Rules: **Alif-Lām Qamariyyah**.\nDerived Words:\n1. وَقَدَ (Waqada): It burned\n2. وَقُود (Waqūd): Fuel\nExample Ayah: This word is primarily used in this Surah and the root is common elsewhere.",
+        "language": "en-US"
+      },
+      "hint": {"text": "A description of the Fire.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "تَطَّلِعُ", "language": "ar"},
+      "back": {
+        "text": "Root: ط ل ع (Ṭ-L-ʿ)\nMeaning: It rises, it ascends\nPronunciation: Taṭṭaliʿu\nTajweed Rules: **Shaddah** on the 'طّ' and **Istiʿlā** on 'ط'.\nDerived Words:\n1. طَلَعَ (Ṭalaʿa): It rose\n2. طُلُوع (Ṭulūʿ): Rising\nExample Ayah: This verb is unique in this Surah.",
+        "language": "en-US"
+      },
+      "hint": {"text": "The action of the fire upon the hearts.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "الْأَفْئِدَةِ", "language": "ar"},
+      "back": {
+        "text": "Root: ف أ د (F-ʾ-D)\nMeaning: The hearts (plural of fu'ād)\nPronunciation: Al-Afʾidah\nTajweed Rules: **Alif-Lām Qamariyyah** and **Layyin** on 'أَفْ'.\nDerived Words:\n1. فُؤَاد (Fuʾād): A heart\nExample Ayah: وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The internal organs affected by the Fire.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "مُّؤْصَدَةٌ", "language": "ar"},
+      "back": {
+        "text": "Root: و ص د (W-Ṣ-D)\nMeaning: Closed over, sealed\nPronunciation: Muʾṣadah\nTajweed Rules: **Shaddah** on the 'مّ'.\nDerived Words:\n1. وَصْد (Waṣd): A bolt, a door\nExample Ayah: This word is unique in the Qur'an.",
+        "language": "en-US"
+      },
+      "hint": {"text": "A description of the Fire's state.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "عَمَدٍ", "language": "ar"},
+      "back": {
+        "text": "Root: ع م د (ʿ-M-D)\nMeaning: Pillars\nPronunciation: ʿAmadin\nTajweed Rules: Standard pronunciation.\nDerived Words:\n1. عَمُود (ʿAmūd): A pillar\n2. اِعْتِمَاد (Iʿtimād): Reliance\nExample Ayah: رَفَعَ السَّمَاوَاتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا",
+        "language": "en-US"
+      },
+      "hint": {"text": "What the Fire is described with.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "مُّمَدَّدَةٍ", "language": "ar"},
+      "back": {
+        "text": "Root: م د د (M-D-D)\nMeaning: Extended, prolonged\nPronunciation: Mumaddadah\nTajweed Rules: **Shaddah** on the 'مّ' and 'دّ'.\nDerived Words:\n1. مَدّ (Madd): Extension\n2. مَدِيد (Madīd): Extended\nExample Ayah: فِي ظِلٍّ مُّمَدَّدٍ",
+        "language": "en-US"
+      },
+      "hint": {"text": "A description of the pillars.", "language": "en-US"}
+    }
+  ]
+}
