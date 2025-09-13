@@ -1,0 +1,205 @@
+{
+  "surah": "Al-Mulk",
+  "flashcards": [
+    {
+      "front": {"text": "تَبَارَكَ", "language": "ar"},
+      "back": {
+        "text": "Root: ب ر ك (B-R-K)\nMeaning: Blessed is He\nPronunciation: Tabāraka\nTajweed Rules: **Madd Tabi'i** on the bā.\nDerived Words:\n1. بَرَكَة (Barakah): blessing\nExample Ayah: تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ",
+        "language": "en-US"
+      },
+      "hint": {"text": "Opening word of the surah, declaring Allah’s blessedness.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "الْمُلْكُ", "language": "ar"},
+      "back": {
+        "text": "Root: م ل ك (M-L-K)\nMeaning: The dominion, sovereignty\nPronunciation: Al-Mulk\nTajweed Rules: **Alif-Lām Qamariyyah** (clear lām).\nDerived Words:\n1. مَلِك (Malik): king\n2. مَالِك (Mālik): owner\nExample Ayah: قُلِ اللَّهُمَّ مَالِكَ الْمُلْكِ",
+        "language": "en-US"
+      },
+      "hint": {"text": "Central theme of the surah: Allah’s absolute rule.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "لِيَبْلُوَكُمْ", "language": "ar"},
+      "back": {
+        "text": "Root: ب ل و (B-L-W)\nMeaning: That He may test you\nPronunciation: Liyabluwakum\nTajweed Rules: —\nDerived Words:\n1. بَلَاء (Balā’): a trial\nExample Ayah: الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ",
+        "language": "en-US"
+      },
+      "hint": {"text": "Purpose of life and death: a test.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "سَمَاوَاتٍ", "language": "ar"},
+      "back": {
+        "text": "Root: س م و (S-M-W)\nMeaning: Heavens\nPronunciation: Samāwātin\nTajweed Rules: **Madd Tabi'i** on the mā.\nDerived Words:\n1. سَمَاء (Samā’): sky\nExample Ayah: وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
+        "language": "en-US"
+      },
+      "hint": {"text": "Refers to the seven heavens.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "فُطُورٍ", "language": "ar"},
+      "back": {
+        "text": "Root: ف ط ر (F-Ṭ-R)\nMeaning: A flaw, cracks\nPronunciation: Fuṭūr\nTajweed Rules: **Madd Tabi'i** on the ṭū.\nDerived Words:\n1. فِطْرَة (Fiṭrah): innate nature\nExample Ayah: هَلْ تَرَىٰ مِن فُطُورٍ",
+        "language": "en-US"
+      },
+      "hint": {"text": "Challenge to find any defect in creation.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "الْمَصَابِيحَ", "language": "ar"},
+      "back": {
+        "text": "Root: ص ب ح (Ṣ-B-Ḥ)\nMeaning: The lamps (stars)\nPronunciation: Al-Maṣābīḥ\nTajweed Rules: **Alif-Lām Qamariyyah**, **Madd Tabi'i** on ṣā and bī.\nDerived Words:\n1. مِصْبَاح (Miṣbāḥ): lamp\nExample Ayah: مَثَلُ نُورِهِ كَمِشْكَاةٍ فِيهَا مِصْبَاحٌ",
+        "language": "en-US"
+      },
+      "hint": {"text": "Stars described as lamps in the sky.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "شَهِيقًا", "language": "ar"},
+      "back": {
+        "text": "Root: ش ه ق (Sh-H-Q)\nMeaning: A terrible roar/inhale\nPronunciation: Shahīqan\nTajweed Rules: **Madd Tabi'i** on the hī.\nDerived Words:\n1. شَهِيق (Shahīq): roar\nExample Ayah: لَهَا شَهِيقٌ وَهِيَ تَفُورُ",
+        "language": "en-US"
+      },
+      "hint": {"text": "Sound of Hellfire’s violent inhaling.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "تَفُورُ", "language": "ar"},
+      "back": {
+        "text": "Root: ف و ر (F-W-R)\nMeaning: It boils, rages\nPronunciation: Tafūru\nTajweed Rules: **Madd Tabi'i** on the fū.\nDerived Words:\n1. فَوْرَة (Fawrah): outburst\nExample Ayah: وَهِيَ تَفُورُ",
+        "language": "en-US"
+      },
+      "hint": {"text": "Describes Hell’s furious boiling.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "صِرَاطٍ", "language": "ar"},
+      "back": {
+        "text": "Root: ص ر ط (Ṣ-R-Ṭ)\nMeaning: A path\nPronunciation: Ṣirāṭ\nTajweed Rules: Heavy **Ṣād**, **Madd Tabi'i** on rā.\nDerived Words: —\nExample Ayah: اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The straight path of guidance.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "عَذَابٍ", "language": "ar"},
+      "back": {
+        "text": "Root: ع ذ ب (ʿ-Dh-B)\nMeaning: Punishment\nPronunciation: ʿAdhābin\nTajweed Rules: **Madd Tabi'i** on the dhā.\nDerived Words:\n1. عَذَّبَ (ʿAdhdhaba): he punished\nExample Ayah: وَلَكُمْ عَذَابٌ أَلِيمٌ",
+        "language": "en-US"
+      },
+      "hint": {"text": "General term for divine punishment.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "الْأَفْئِدَةَ", "language": "ar"},
+      "back": {
+        "text": "Root: ف أ د (F-ʾ-D)\nMeaning: The hearts\nPronunciation: Al-Afʾidah\nTajweed Rules: **Alif-Lām Qamariyyah**.\nDerived Words:\n1. فُؤَاد (Fuʾād): heart\nExample Ayah: جَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ",
+        "language": "en-US"
+      },
+      "hint": {"text": "Inner hearts that comprehend and feel.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "مَمْنُونٍ", "language": "ar"},
+      "back": {
+        "text": "Root: م ن ن (M-N-N)\nMeaning: Cut off / interrupted\nPronunciation: Mamnūn\nTajweed Rules: **Madd Tabi'i** on the nū.\nDerived Words:\n1. مَنّ (Mann): favor, blessing\nExample Ayah: أَجْرًا غَيْرَ مَمْنُونٍ",
+        "language": "en-US"
+      },
+      "hint": {"text": "A reward that will never be cut off.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "قَدِيرٌ", "language": "ar"},
+      "back": {
+        "text": "Root: ق د ر (Q-D-R)\nMeaning: All-Powerful\nPronunciation: Qadīr\nTajweed Rules: **Madd Tabi'i** on dī.\nDerived Words:\n1. قُدْرَة (Qudrah): power\nExample Ayah: وَكَانَ اللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرًا",
+        "language": "en-US"
+      },
+      "hint": {"text": "Allah’s attribute of perfect power.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "الْمَوْتَ", "language": "ar"},
+      "back": {
+        "text": "Root: م و ت (M-W-T)\nMeaning: Death\nPronunciation: Al-Mawt\nTajweed Rules: **Alif-Lām Qamariyyah**, **Madd Layyin** on maw.\nDerived Words:\n1. مَيْت (Mayt): dead\nExample Ayah: كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ",
+        "language": "en-US"
+      },
+      "hint": {"text": "One of the two creations (life & death) for the test.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "خَبِيرٌ", "language": "ar"},
+      "back": {
+        "text": "Root: خ ب ر (Kh-B-R)\nMeaning: All-Aware\nPronunciation: Khabīr\nTajweed Rules: **Madd Tabi'i** on bī.\nDerived Words:\n1. خَبَر (Khabar): news\nExample Ayah: وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+        "language": "en-US"
+      },
+      "hint": {"text": "Allah’s attribute of being fully aware.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "جَنَّاتٍ", "language": "ar"},
+      "back": {
+        "text": "Root: ج ن ن (J-N-N)\nMeaning: Gardens\nPronunciation: Jannātin\nTajweed Rules: **Madd Tabi'i** on nā.\nDerived Words:\n1. جَنَّة (Jannah): Paradise garden\nExample Ayah: جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The reward of the righteous.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "الْأَنْهَارُ", "language": "ar"},
+      "back": {
+        "text": "Root: ن ه ر (N-H-R)\nMeaning: The rivers\nPronunciation: Al-Anhāru\nTajweed Rules: **Alif-Lām Qamariyyah**, **Madd Tabi'i** on hā.\nDerived Words:\n1. نَهْر (Nahr): river\nExample Ayah: جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ",
+        "language": "en-US"
+      },
+      "hint": {"text": "Rivers beneath the gardens of Paradise.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "غَيْثًا", "language": "ar"},
+      "back": {
+        "text": "Root: غ ي ث (Gh-Y-Th)\nMeaning: Rain, relief\nPronunciation: Ghaythan\nTajweed Rules: **Madd Layyin** on ghay.\nDerived Words:\n1. غَيْث (Ghayth): rain\nExample Ayah: فَأَنزَلْنَا مِنَ السَّمَاءِ مَاءً غَيْثًا",
+        "language": "en-US"
+      },
+      "hint": {"text": "Rain sent as mercy and revival.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "عَلِيمٌ", "language": "ar"},
+      "back": {
+        "text": "Root: ع ل م (ʿ-L-M)\nMeaning: All-Knowing\nPronunciation: ʿAlīm\nTajweed Rules: **Madd Tabi'i** on lī.\nDerived Words:\n1. عِلْم (ʿIlm): knowledge\nExample Ayah: وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+        "language": "en-US"
+      },
+      "hint": {"text": "Allah’s attribute of complete knowledge.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "الْغَفُورُ", "language": "ar"},
+      "back": {
+        "text": "Root: غ ف ر (Gh-F-R)\nMeaning: The Forgiving\nPronunciation: Al-Ghafūr\nTajweed Rules: **Alif-Lām Qamariyyah**, **Madd Tabi'i** on fū.\nDerived Words:\n1. مَغْفِرَة (Maghfirah): forgiveness\nExample Ayah: إِنَّ اللَّهَ الْغَفُورُ الرَّحِيمُ",
+        "language": "en-US"
+      },
+      "hint": {"text": "Allah’s attribute of forgiving sins.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "جَهَنَّمَ", "language": "ar"},
+      "back": {
+        "text": "Root: — (proper name)\nMeaning: Hell\nPronunciation: Jahannam\nTajweed Rules: **Shaddah** on the n.\nDerived Words: —\nExample Ayah: إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا",
+        "language": "en-US"
+      },
+      "hint": {"text": "The abode of punishment for disbelievers.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "الْخَاسِئُ", "language": "ar"},
+      "back": {
+        "text": "Root: خ س أ (Kh-S-ʾ)\nMeaning: Humiliated, rejected\nPronunciation: Al-Khāsiʾ\nTajweed Rules: **Alif-Lām Qamariyyah**.\nDerived Words:\n1. خُسُوء (Khusūʾ): humiliation\nExample Ayah: وَهُوَ خَاسِئٌ",
+        "language": "en-US"
+      },
+      "hint": {"text": "The state of the arrogant in Hell.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "تَسْتَعِرُ", "language": "ar"},
+      "back": {
+        "text": "Root: س ع ر (S-ʿ-R)\nMeaning: It blazes, rages\nPronunciation: Tastaʿiru\nTajweed Rules: —\nDerived Words:\n1. سَعِير (Saʿīr): blazing fire\nExample Ayah: وَهِيَ تَسْتَعِرُ",
+        "language": "en-US"
+      },
+      "hint": {"text": "Describes the intensifying fire of Hell.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "فَوْجٌ", "language": "ar"},
+      "back": {
+        "text": "Root: ف و ج (F-W-J)\nMeaning: A group, company\nPronunciation: Fawj\nTajweed Rules: **Madd Layyin** on faw.\nDerived Words:\n1. فَوْجًا (Fawjan): in groups\nExample Ayah: كُلَّمَا أُلْقِيَ فِيهَا فَوْجٌ",
+        "language": "en-US"
+      },
+      "hint": {"text": "Groups thrown into Hell one after another.", "language": "en-US"}
+    },
+    {
+      "front": {"text": "مِثْقَالَ", "language": "ar"},
+      "back": {
+        "text": "Root: ث ق ل (Th-Q-L)\nMeaning: An atom’s weight\nPronunciation: Mithqāla\nTajweed Rules: **Ikhfāʾ** of the th.\nDerived Words:\n1. ثَقِيل (Thaqīl): heavy\nExample Ayah: فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ",
+        "language": "en-US"
+      },
+      "hint": {"text": "Even the tiniest deed will be weighed.", "language": "en-US"}
+    }
+  ]
+}
