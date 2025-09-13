@@ -1,0 +1,161 @@
+{
+  "surah": "Al-Fātiḥah",
+  "cards": [
+    {
+      "word": "بِسْمِ",
+      "root": "س م و",
+      "meaning": "In the name of",
+      "pronunciation": "Bism",
+      "tajweed_rules": "Straightforward pronunciation with no major elongation or nasalization rules.",
+      "derived_words": [
+        { "word": "اسْم", "meaning": "Name" },
+        { "word": "سَمَّى", "meaning": "To name" },
+        { "word": "سَمَاء", "meaning": "Sky, heaven" },
+        { "word": "مُسَمًّى", "meaning": "Named, specified" }
+      ]
+    },
+    {
+      "word": "اللَّهِ",
+      "root": "أ ل ه",
+      "meaning": "Allah, The One God",
+      "pronunciation": "Allāh",
+      "tajweed_rules": "The Lām (ل) is pronounced lightly (Tarqīq) because it is preceded by a kasra, as in Bism-illāh.",
+      "derived_words": [
+        { "word": "إِلَٰه", "meaning": "A god, deity" },
+        { "word": "أُلُوهِيَّة", "meaning": "Divinity" },
+        { "word": "تَأَلَّهَ", "meaning": "To worship" },
+        { "word": "اللَّهُمَّ", "meaning": "O Allah" }
+      ]
+    },
+    {
+      "word": "الرَّحْمَٰنِ",
+      "root": "ر ح م",
+      "meaning": "The Entirely Merciful",
+      "pronunciation": "Ar-Raḥmān",
+      "tajweed_rules": "Alif-Lām Shamsiyyah (lām silent), Tafkhīm (heavy ر), Madd Ṭabīʿī (elongate mā for 2 counts).",
+      "derived_words": [
+        { "word": "رَحْمَة", "meaning": "Mercy" },
+        { "word": "رَحِيم", "meaning": "The Merciful" },
+        { "word": "أَرْحَام", "meaning": "Wombs" },
+        { "word": "مَرْحُوم", "meaning": "One who has received mercy" }
+      ]
+    },
+    {
+      "word": "الْحَمْدُ",
+      "root": "ح م د",
+      "meaning": "All praise",
+      "pronunciation": "Al-Ḥamdu",
+      "tajweed_rules": "Alif-Lām Qamariyyah (lām pronounced clearly). Ḥāʾ is whispered (Hams).",
+      "derived_words": [
+        { "word": "حَمَدَ", "meaning": "He praised" },
+        { "word": "مَحْمُود", "meaning": "Praiseworthy" },
+        { "word": "أَحْمَد", "meaning": "Most praised" },
+        { "word": "حَامِد", "meaning": "One who praises" }
+      ]
+    },
+    {
+      "word": "رَبِّ",
+      "root": "ر ب ب",
+      "meaning": "Lord, Sustainer",
+      "pronunciation": "Rabb",
+      "tajweed_rules": "ر pronounced heavily (Tafkhīm); ب doubled (Shaddah).",
+      "derived_words": [
+        { "word": "تَرْبِيَة", "meaning": "Upbringing" },
+        { "word": "رَبَّانِي", "meaning": "Lordly, devout" },
+        { "word": "مُرَبِّي", "meaning": "Educator" },
+        { "word": "أَرْبَاب", "meaning": "Lords, masters" }
+      ]
+    },
+    {
+      "word": "الْعَالَمِينَ",
+      "root": "ع ل م",
+      "meaning": "The worlds",
+      "pronunciation": "Al-ʿĀlamīn",
+      "tajweed_rules": "Alif-Lām Qamariyyah (clear lām); ʿĀ is elongated 2 counts (Madd Ṭabīʿī).",
+      "derived_words": [
+        { "word": "عِلْم", "meaning": "Knowledge" },
+        { "word": "عَالِم", "meaning": "Scholar" },
+        { "word": "عَلَّمَ", "meaning": "He taught" },
+        { "word": "مَعْلُوم", "meaning": "Known" }
+      ]
+    },
+    {
+      "word": "مَالِكِ",
+      "root": "م ل ك",
+      "meaning": "Master, Owner",
+      "pronunciation": "Mālik",
+      "tajweed_rules": "Mā elongated 2 counts (Madd Ṭabīʿī).",
+      "derived_words": [
+        { "word": "مَلِك", "meaning": "King" },
+        { "word": "مُلْك", "meaning": "Dominion" },
+        { "word": "مَمْلَكَة", "meaning": "Kingdom" },
+        { "word": "مَلَائِكَة", "meaning": "Angels" }
+      ]
+    },
+    {
+      "word": "نَعْبُدُ",
+      "root": "ع ب د",
+      "meaning": "We worship",
+      "pronunciation": "Naʿbudu",
+      "tajweed_rules": "ʿAyn pronounced distinctly from the throat.",
+      "derived_words": [
+        { "word": "عَبْد", "meaning": "Servant" },
+        { "word": "عِبَادَة", "meaning": "Worship" },
+        { "word": "مَعْبَد", "meaning": "Temple" },
+        { "word": "عَابِد", "meaning": "Worshipper" }
+      ]
+    },
+    {
+      "word": "اهْدِنَا",
+      "root": "ه د ي",
+      "meaning": "Guide us",
+      "pronunciation": "Ihdinā",
+      "tajweed_rules": "Initial alif silent in continuation (Hamzat-ul-Wasl); nā elongated 2 counts.",
+      "derived_words": [
+        { "word": "هِدَايَة", "meaning": "Guidance" },
+        { "word": "هَادِي", "meaning": "A guide" },
+        { "word": "هَدِيَّة", "meaning": "Gift" },
+        { "word": "مُهْتَدِي", "meaning": "One who is guided" }
+      ]
+    },
+    {
+      "word": "الْمُسْتَقِيمَ",
+      "root": "ق و م",
+      "meaning": "The straight",
+      "pronunciation": "Al-Mustaqīm",
+      "tajweed_rules": "Alif-Lām Qamariyyah (clear lām); qī elongated 2, 4, or 6 counts when stopping (Madd ʿĀriḍ li-s-Sukūn).",
+      "derived_words": [
+        { "word": "قَامَ", "meaning": "He stood" },
+        { "word": "قِيَامَة", "meaning": "Resurrection" },
+        { "word": "قَوْم", "meaning": "People" },
+        { "word": "أَقَامَ", "meaning": "To establish" }
+      ]
+    },
+    {
+      "word": "الْمَغْضُوبِ",
+      "root": "غ ض ب",
+      "meaning": "Those who have earned Your anger",
+      "pronunciation": "Al-Maghḍūb",
+      "tajweed_rules": "غ and ض are heavy (Istiʿlā); ض has Istiṭālah (elongated quality).",
+      "derived_words": [
+        { "word": "غَضَب", "meaning": "Anger" },
+        { "word": "غَاضِب", "meaning": "Angry" },
+        { "word": "أَغْضَبَ", "meaning": "To make someone angry" },
+        { "word": "غَضْبَان", "meaning": "Furious" }
+      ]
+    },
+    {
+      "word": "الضَّالِّينَ",
+      "root": "ض ل ل",
+      "meaning": "Those who go astray",
+      "pronunciation": "Aḍ-Ḍāllīn",
+      "tajweed_rules": "Madd Lāzim Kalimī Muthaqqal (ḍā elongated 6 counts due to shaddah).",
+      "derived_words": [
+        { "word": "ضَلَال", "meaning": "Error, misguidance" },
+        { "word": "ضَلَّ", "meaning": "He went astray" },
+        { "word": "مُضِلّ", "meaning": "One who misleads" },
+        { "word": "ضَالّ", "meaning": "One who is astray" }
+      ]
+    }
+  ]
+}
